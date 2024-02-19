@@ -1,0 +1,253 @@
+[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Default - Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0008,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Title,Times New Roman,22,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: SignA,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0186,0
+Style: Sign_Default,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,0
+Style: Sign_Default2,Times New Roman,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,0
+Style: Sign_Default3,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0070,0070,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.04,0:00:04.48,Default,Er,0000,0000,0000,,¡Empieza la 57.ª expedición\Nmás allá las murallas!
+Dialogue: 0,0:00:05.42,0:00:07.32,Default,Er,0000,0000,0000,,¡Adelante!
+Dialogue: 0,0:00:12.36,0:00:16.87,Default - italics,Narr,0000,0000,0000,,La Legión parte en busca\Nde una ruta hacia Shiganshina,
+Dialogue: 0,0:00:17.19,0:00:23.32,Default - italics,Narr,0000,0000,0000,,pero encuentra a un humano transformado\Nen titán como Eren: el titán hembra.
+Dialogue: 0,0:00:27.79,0:00:29.37,Default,Ar,0000,0000,0000,,Eso no es un excéntrico.
+Dialogue: 0,0:00:29.37,0:00:32.28,Default,Ar,0000,0000,0000,,¡Es un humano en el cuerpo de un titán!
+Dialogue: 0,0:00:40.34,0:00:43.13,Default - italics,Narr,0000,0000,0000,,Mientras moría un soldado tras otro,
+Dialogue: 0,0:00:43.13,0:00:49.60,Default - italics,Narr,0000,0000,0000,,la Legión avanza a ciegas\Nhasta el bosque de árboles gigantes.
+Dialogue: 0,0:00:49.60,0:00:53.53,Default,,0000,0000,0000,,Si no lo detiene el escuadrón\Nde Levi, ¿quién lo hará?
+Dialogue: 0,0:00:54.27,0:00:55.34,Default,Le,0000,0000,0000,,Elige.
+Dialogue: 0,0:00:55.83,0:00:57.41,Default,Le,0000,0000,0000,,Confía en ti mismo,
+Dialogue: 0,0:00:57.79,0:01:01.49,Default,Le,0000,0000,0000,,o en mí y la Legión de Reconocimiento.
+Dialogue: 0,0:01:04.20,0:01:05.60,Default,E,0000,0000,0000,,¡Seguiré adelante!
+Dialogue: 0,0:01:10.75,0:01:12.75,Default,Er,0000,0000,0000,,¡Fuego!
+Dialogue: 0,0:01:18.78,0:01:22.72,Default,L,0000,0000,0000,,Es verdad, quería hacerte una pregunta.
+Dialogue: 0,0:01:23.73,0:01:26.85,Default,L,0000,0000,0000,,¿Te importa\Nque te cortemos las extremidades?
+Dialogue: 0,0:01:27.40,0:01:29.52,Default,L,0000,0000,0000,,Te crecerán de nuevo, ¿no?
+Dialogue: 0,0:01:30.02,0:01:32.65,Default,L,0000,0000,0000,,Me refiero a las de tu cuerpo real.
+Dialogue: 0,0:01:33.08,0:01:36.95,Default,L,0000,0000,0000,,Sería un problema que te murieras.
+Dialogue: 0,0:01:47.46,0:01:52.09,Default,L,0000,0000,0000,,El enemigo estaba preparado\Npara sacrificarlo todo.
+Dialogue: 0,0:01:53.07,0:01:58.03,Default,L,0000,0000,0000,,No esperaba que se dejase devorar\Npara eliminar pruebas.
+Dialogue: 0,0:02:00.24,0:02:02.20,Default,Er,0000,0000,0000,,¡Retirada!
+Dialogue: 0,0:02:03.96,0:02:05.66,Default,Er,0000,0000,0000,,Retomen la formación.
+Dialogue: 0,0:02:06.66,0:02:08.73,Default,Er,0000,0000,0000,,¡Regresamos a Karanese!
+Dialogue: 0,0:02:13.30,0:02:16.50,Default,H,0000,0000,0000,,Erwin, ¿por qué le dijiste a Levi\Nque se reabasteciera?
+Dialogue: 0,0:02:16.50,0:02:17.57,Default,H,0000,0000,0000,,No hay tiempo.
+Dialogue: 0,0:02:18.27,0:02:19.92,Default,Er,0000,0000,0000,,Devoraron a la titán hembra.
+Dialogue: 0,0:02:20.26,0:02:23.47,Default,Er,0000,0000,0000,,Pero ¿los viste devorar\Na la persona de dentro?
+Dialogue: 0,0:02:23.47,0:02:24.74,Default,Er,0000,0000,0000,,Porque yo no.
+Dialogue: 0,0:02:25.59,0:02:26.64,Default,H,0000,0000,0000,,¿Insinúas que…?
+Dialogue: 0,0:02:26.64,0:02:30.25,Default,H,0000,0000,0000,,Sí, si tu hipótesis era correcta
+Dialogue: 0,0:02:30.25,0:02:34.27,Default,H,0000,0000,0000,,y es capaz de moverse\Ntras recuperar su forma humana…
+Dialogue: 0,0:02:35.35,0:02:39.51,Default,H,0000,0000,0000,,Y en caso de que llevara\Nequipo de maniobras…
+Dialogue: 0,0:02:40.94,0:02:45.66,Default,H,0000,0000,0000,,Quien había dentro de la titán\Nhembra lleva nuestro uniforme ahora.
+Dialogue: 0,0:02:45.66,0:02:46.71,Default,G,0000,0000,0000,,¿Capitán Levi?
+Dialogue: 0,0:02:48.03,0:02:50.23,Default,G,0000,0000,0000,,¡No, no es él! ¿Quién eres?
+Dialogue: 0,0:02:56.41,0:02:57.44,Default,E,0000,0000,0000,,¡Gunther!
+Dialogue: 0,0:03:05.27,0:03:09.20,Default,Er,0000,0000,0000,,El enemigo está camuflado\Nentre los soldados.
+Dialogue: 0,0:04:42.01,0:04:47.01,Title,,0000,0000,0000,,Golpe devastador\N57.ª expedición más allá de las murallas (5)
+Dialogue: 0,0:04:50.02,0:04:52.18,Default,Er,0000,0000,0000,,Cuando el titán colosal desapareció,
+Dialogue: 0,0:04:52.80,0:04:56.69,Default,Er,0000,0000,0000,,quien hubiera dentro\Nllevaba el equipo de maniobras
+Dialogue: 0,0:04:56.69,0:04:59.62,Default,Er,0000,0000,0000,,para escapar oculto entre el vapor.
+Dialogue: 0,0:05:00.32,0:05:02.65,Default,Er,0000,0000,0000,,Esta vez pudo ocurrir lo mismo.
+Dialogue: 0,0:05:02.65,0:05:07.61,Default,H,0000,0000,0000,,Pero basándonos en el estado\Nen el que emerge Eren de su titán,
+Dialogue: 0,0:05:07.61,0:05:10.20,Default,H,0000,0000,0000,,concluimos que eso es imposible, ¿no?
+Dialogue: 0,0:05:11.66,0:05:15.29,Default,H,0000,0000,0000,,Su equipo quedó inutilizable,\Ne incluso destruyó el uniforme.
+Dialogue: 0,0:05:15.96,0:05:21.25,Default,H,0000,0000,0000,,Y lo más importante: Eren estaba\Ntan débil que no podía ni levantarse.
+Dialogue: 0,0:05:22.83,0:05:27.68,Default,Er,0000,0000,0000,,La titán hembra atrajo a otros titanes\Ncon alguna habilidad.
+Dialogue: 0,0:05:28.09,0:05:31.60,Default,Er,0000,0000,0000,,Fracasamos al no preverlo.
+Dialogue: 0,0:05:32.68,0:05:35.10,Default,Er,0000,0000,0000,,Si hay diferencias entre titanes,
+Dialogue: 0,0:05:35.57,0:05:40.40,Default,Er,0000,0000,0000,,cometimos un error al usar\Na un novato como Eren como base.
+Dialogue: 0,0:05:41.14,0:05:45.86,Default,Er,0000,0000,0000,,Para zafarnos del enemigo, tendremos\Nque cambiar nuestra forma de pensar.
+Dialogue: 0,0:05:48.78,0:05:52.16,Default,J,0000,0000,0000,,Si nos retiramos,\N¿crees que la misión tuvo éxito?
+Dialogue: 0,0:05:52.58,0:05:58.62,Default,Ar,0000,0000,0000,,Si fuera así, ya sabemos quién\Nhabía dentro de la titán hembra.
+Dialogue: 0,0:05:58.96,0:06:01.00,Default,J,0000,0000,0000,,Quiero verle la cara.
+Dialogue: 0,0:06:01.50,0:06:03.86,Default,J,0000,0000,0000,,¿Por qué el comandante estaba convencido
+Dialogue: 0,0:06:03.86,0:06:07.38,Default,J,0000,0000,0000,,de que la titán seguiría a Eren\Nsi salía de las murallas?
+Dialogue: 0,0:06:07.38,0:06:10.43,Default,Ar,0000,0000,0000,,En mi opinión es porque la última vez
+Dialogue: 0,0:06:10.43,0:06:14.42,Default,Ar,0000,0000,0000,,pararon de atacar en medio del asalto.
+Dialogue: 0,0:06:15.59,0:06:18.10,Default,Ar,0000,0000,0000,,Destruyeron la puerta exterior de Trost,
+Dialogue: 0,0:06:18.64,0:06:20.92,Default,Ar,0000,0000,0000,,pero no intentaron ir por la interior
+Dialogue: 0,0:06:21.23,0:06:24.28,Default,Ar,0000,0000,0000,,y dejaron que Eren sellara el agujero.
+Dialogue: 0,0:06:25.10,0:06:29.59,Default,Ar,0000,0000,0000,,Probablemente\Nsu objetivo principal cambiara.
+Dialogue: 0,0:06:30.97,0:06:32.58,Default,J,0000,0000,0000,,¿Cambió?
+Dialogue: 0,0:06:32.58,0:06:38.37,Default,Ar,0000,0000,0000,,Había algo más importante que destruir\Nla muralla, algo inesperado.
+Dialogue: 0,0:06:39.80,0:06:41.46,Default,J,0000,0000,0000,,¿La transformación de Eren?
+Dialogue: 0,0:06:41.46,0:06:43.17,Default,Ar,0000,0000,0000,,Es lo único que se me ocurre.
+Dialogue: 0,0:06:43.50,0:06:46.09,Default,J,0000,0000,0000,,Entonces, eso significa…
+Dialogue: 0,0:06:47.51,0:06:53.26,Default,Ar,0000,0000,0000,,Que alguien que vio a Eren\Ntransformarse aquella vez
+Dialogue: 0,0:06:53.60,0:06:55.64,Default,Ar,0000,0000,0000,,es el titán.
+Dialogue: 0,0:06:58.68,0:06:59.73,Default,E,0000,0000,0000,,¡Gunther!
+Dialogue: 0,0:07:00.19,0:07:01.85,Default,O,0000,0000,0000,,¡No te detengas, Eren!
+Dialogue: 0,0:07:02.27,0:07:03.48,Default,O,0000,0000,0000,,¡Avanza!
+Dialogue: 0,0:07:05.60,0:07:07.11,Default,E,0000,0000,0000,,Pero Gunther…
+Dialogue: 0,0:07:08.36,0:07:09.40,Default,P,0000,0000,0000,,¿Quién eres?
+Dialogue: 0,0:07:09.40,0:07:10.45,Default,O,0000,0000,0000,,¡Protejan a Eren!
+Dialogue: 0,0:07:10.86,0:07:12.28,Default,O,0000,0000,0000,,¿Qué hacemos?
+Dialogue: 0,0:07:12.28,0:07:14.24,Default,O,0000,0000,0000,,Eld, ¿hacia dónde vamos?
+Dialogue: 0,0:07:14.57,0:07:16.20,Default,El,0000,0000,0000,,No hay tiempo para montar.
+Dialogue: 0,0:07:16.20,0:07:18.26,Default,El,0000,0000,0000,,¡Apresurémonos hacia el cuartel!
+Dialogue: 0,0:07:25.32,0:07:28.46,Default,O,0000,0000,0000,,¿Es quien había\Nen la titán hembra o hay más?
+Dialogue: 0,0:07:28.46,0:07:30.50,Default,P,0000,0000,0000,,Maldita sea… ¿Cómo te atreves?
+Dialogue: 0,0:07:30.95,0:07:33.76,Default,P,0000,0000,0000,,¡Ven! ¡Te mataré\Naunque vaya a la tumba contigo!
+Dialogue: 0,0:07:34.24,0:07:35.47,Default - italics,E,0000,0000,0000,,¿La titán hembra?
+Dialogue: 0,0:07:35.47,0:07:37.35,Default - italics,E,0000,0000,0000,,No puede ser… ¿Cómo…?
+Dialogue: 0,0:07:37.76,0:07:39.77,Default - italics,E,0000,0000,0000,,¿No la atraparon?
+Dialogue: 0,0:07:47.94,0:07:52.36,Default,Er,0000,0000,0000,,Si el enemigo es capaz\Nde conservar energía,
+Dialogue: 0,0:07:53.74,0:07:57.08,Default,Er,0000,0000,0000,,es posible que se transforme de nuevo.
+Dialogue: 0,0:08:01.62,0:08:02.79,Default,O,0000,0000,0000,,Lo sabía.
+Dialogue: 0,0:08:02.79,0:08:03.79,Default,El,0000,0000,0000,,¡Ahí viene!
+Dialogue: 0,0:08:04.58,0:08:05.92,Default,El,0000,0000,0000,,¡La titán hembra!
+Dialogue: 0,0:08:14.38,0:08:16.22,Default,E,0000,0000,0000,,Maldita sea… ¿Cómo te atreves?
+Dialogue: 0,0:08:16.22,0:08:18.64,Default,E,0000,0000,0000,,¡Esta vez lo haré! ¡La derrotaré!
+Dialogue: 0,0:08:18.64,0:08:19.74,Default,El,0000,0000,0000,,¡No!
+Dialogue: 0,0:08:20.90,0:08:23.56,Default,El,0000,0000,0000,,Nosotros tres acabaremos con ella.
+Dialogue: 0,0:08:23.56,0:08:26.69,Default,El,0000,0000,0000,,Tú ve al cuartel a máxima velocidad.
+Dialogue: 0,0:08:29.26,0:08:31.68,Default,Er,0000,0000,0000,,Durante esta batalla observé…
+Dialogue: 0,0:08:32.28,0:08:34.88,Default,Er,0000,0000,0000,,que si nos limitamos\Na las mejores opciones,
+Dialogue: 0,0:08:34.88,0:08:37.44,Default,,0000,0000,0000,,jamás podremos superar al enemigo.
+Dialogue: 0,0:08:37.82,0:08:40.74,Default,Er,0000,0000,0000,,Si es necesario,\Ndebemos asumir grandes riesgos
+Dialogue: 0,0:08:40.74,0:08:43.62,Default,Er,0000,0000,0000,,y prepararnos para perderlo todo.
+Dialogue: 0,0:08:43.62,0:08:45.28,Default,E,0000,0000,0000,,¡Yo también pelearé!
+Dialogue: 0,0:08:45.28,0:08:46.13,Default,El,0000,0000,0000,,¡No!
+Dialogue: 0,0:08:46.50,0:08:50.38,Default,El,0000,0000,0000,,Esta es la mejor opción.\NTus poderes son demasiado arriesgados.
+Dialogue: 0,0:08:50.74,0:08:53.92,Default,O,0000,0000,0000,,¿Es que no confías en nuestra habilidad?
+Dialogue: 0,0:08:54.46,0:08:55.80,Default,P,0000,0000,0000,,¿Es eso, Eren?
+Dialogue: 0,0:08:56.30,0:08:59.47,Default,P,0000,0000,0000,,¿Tanto te cuesta confiar en nosotros?
+Dialogue: 0,0:09:01.97,0:09:03.77,Default,Er,0000,0000,0000,,Si no combatimos de ese modo,
+Dialogue: 0,0:09:04.30,0:09:05.92,Default,Er,0000,0000,0000,,la humanidad no ganará.
+Dialogue: 0,0:09:12.74,0:09:15.10,Default,E,0000,0000,0000,,¡Confío en la victoria de mi escuadrón!
+Dialogue: 0,0:09:16.41,0:09:17.78,Default,E,0000,0000,0000,,¡Buena suerte!
+Dialogue: 0,0:09:45.98,0:09:49.98,Default - italics,El,0000,0000,0000,,La cegamos. Se sumirá en la oscuridad\Nal menos por un minuto.
+Dialogue: 0,0:09:49.98,0:09:51.23,Default - italics,P,0000,0000,0000,,La eliminaremos antes.
+Dialogue: 0,0:09:51.23,0:09:52.57,Default - italics,O,0000,0000,0000,,Nada de capturarla.
+Dialogue: 0,0:09:52.57,0:09:53.36,Default - italics,El,0000,0000,0000,,¡La mataremos!
+Dialogue: 0,0:09:53.36,0:09:54.65,Default - italics,P,0000,0000,0000,,Muere de forma patética.
+Dialogue: 0,0:09:54.65,0:09:56.40,Default - italics,O,0000,0000,0000,,¡Que pague por lo que hizo!
+Dialogue: 0,0:10:00.32,0:10:02.38,Default - italics,El,0000,0000,0000,,No dejaremos que regeneres tus ojos.
+Dialogue: 0,0:10:16.05,0:10:19.08,Default - italics,El,0000,0000,0000,,¡Te cortaré\Ntodos los músculos de los brazos
+Dialogue: 0,0:10:19.08,0:10:21.55,Default - italics,,0000,0000,0000,,hasta que no puedas levantarlos!
+Dialogue: 0,0:10:27.01,0:10:28.09,Default - italics,P,0000,0000,0000,,Los cortaremos.
+Dialogue: 0,0:10:28.09,0:10:29.40,Default - italics,O,0000,0000,0000,,¡Tus brazos…
+Dialogue: 0,0:10:29.40,0:10:30.56,Default - italics,El,0000,0000,0000,,…caerán!
+Dialogue: 0,0:10:33.86,0:10:34.84,Default,O,0000,0000,0000,,¡Cayeron!
+Dialogue: 0,0:10:37.22,0:10:38.65,Default,E,0000,0000,0000,,¡Ahora, el cuello!
+Dialogue: 0,0:10:38.65,0:10:41.11,Default,E,0000,0000,0000,,¡Si cortamos los músculos del cuello…
+Dialogue: 0,0:10:41.11,0:10:42.64,Default,P,0000,0000,0000,,…veremos su nuca!
+Dialogue: 0,0:10:48.75,0:10:50.08,Default - italics,E,0000,0000,0000,,Son muy fuertes.
+Dialogue: 0,0:10:50.08,0:10:52.29,Default - italics,E,0000,0000,0000,,La titán hembra está acorralada.
+Dialogue: 0,0:10:52.29,0:10:55.96,Default - italics,E,0000,0000,0000,,Es increíble que estén tan sincronizados\Nsin hablar siquiera.
+Dialogue: 0,0:10:56.80,0:11:00.58,Default - italics,E,0000,0000,0000,,Seguro que es porque confían\Nlos unos en los otros.
+Dialogue: 0,0:11:01.41,0:11:03.62,Default - italics,E,0000,0000,0000,,Superaron muchas dificultades juntos.
+Dialogue: 0,0:11:04.18,0:11:07.47,Default - italics,E,0000,0000,0000,,Por eso son fuertes\Nincluso tras perder a Gunther.
+Dialogue: 0,0:11:10.86,0:11:12.08,Default - italics,E,0000,0000,0000,,Seguiré adelante.
+Dialogue: 0,0:11:12.40,0:11:16.09,Default - italics,E,0000,0000,0000,,Si avanzo confiando en ellos,\Nsin mirar atrás,
+Dialogue: 0,0:11:16.09,0:11:18.20,Default - italics,E,0000,0000,0000,,seguro que hago lo correcto.
+Dialogue: 0,0:11:18.20,0:11:19.87,Default - italics,E,0000,0000,0000,,Por fin lo entiendo.
+Dialogue: 0,0:11:21.82,0:11:23.24,Default - italics,L,0000,0000,0000,,Yo no sé qué pasará.
+Dialogue: 0,0:11:25.32,0:11:26.72,Default - italics,L,0000,0000,0000,,Nunca lo sé.
+Dialogue: 0,0:11:27.14,0:11:29.00,Default - italics,L,0000,0000,0000,,Aunque confíe en mis habilidades
+Dialogue: 0,0:11:29.48,0:11:32.17,Default - italics,L,0000,0000,0000,,o en las decisiones de mis compañeros,
+Dialogue: 0,0:11:33.13,0:11:35.42,Default - italics,L,0000,0000,0000,,nadie sabe lo que pasará.
+Dialogue: 0,0:11:39.72,0:11:41.92,Default,El,0000,0000,0000,,¡Te rebanaremos el cue…!
+Dialogue: 0,0:11:47.04,0:11:48.36,Default,P,0000,0000,0000,,¡Eld!
+Dialogue: 0,0:11:55.74,0:11:57.10,Default,P,0000,0000,0000,,¿Cómo…?
+Dialogue: 0,0:11:57.70,0:12:01.74,Default,P,0000,0000,0000,,Todavía no puede ver,\Nsolo pasaron 30 segun…
+Dialogue: 0,0:12:02.61,0:12:06.74,Default,P,0000,0000,0000,,¿Priorizó la regeneración\Nde un solo ojo para acelerarla?
+Dialogue: 0,0:12:06.74,0:12:09.08,Default,P,0000,0000,0000,,¿Pueden hacer eso?
+Dialogue: 0,0:12:10.01,0:12:12.29,Default,O,0000,0000,0000,,¡Petra, ajusta tu postura!
+Dialogue: 0,0:12:13.57,0:12:16.13,Default,O,0000,0000,0000,,¡Rápido, Petra!
+Dialogue: 0,0:12:25.64,0:12:26.85,Default,,0000,0000,0000,,Oye, tú…
+Dialogue: 0,0:12:27.53,0:12:28.43,Default,O,0000,0000,0000,,¡Muérete!
+Dialogue: 0,0:12:34.73,0:12:37.65,Default,O,0000,0000,0000,,¿Qué? La espada no la atraviesa.
+Dialogue: 0,0:12:56.08,0:12:57.52,Default,E,0000,0000,0000,,Voy…
+Dialogue: 0,0:13:01.28,0:13:02.67,Default,,0000,0000,0000,,Voy a…
+Dialogue: 0,0:13:05.18,0:13:06.14,Default,E,0000,0000,0000,,¡Voy a matarla!
+Dialogue: 0,0:13:22.02,0:13:23.04,Default,M,0000,0000,0000,,¿Eren?
+Dialogue: 0,0:13:23.80,0:13:25.99,Default,Sa,0000,0000,0000,,¡Espera, Mikasa!
+Dialogue: 0,0:13:25.99,0:13:28.32,Default - italics,L,0000,0000,0000,,Esa voz… No puede ser.
+Dialogue: 0,0:13:40.02,0:13:45.01,Sign_Default,,0000,0000,0000,,Información pública actualmente
+Dialogue: 0,0:13:40.02,0:13:45.01,Sign_Default,L,0000,0000,0000,,{\an6\fs16}Caballos de la Legión de Reconocimiento (1)\N\N\NLos caballos de la Legión son criados\Nespecíficamente para ellos.\NMiden unos 160 centímetros\Ny pesan de 450 a 500 kilos.
+Dialogue: 0,0:13:45.01,0:13:50.01,Sign_Default,,0000,0000,0000,,Información pública actualmente
+Dialogue: 0,0:13:45.01,0:13:50.01,Sign_Default2,L,0000,0000,0000,,{\an4\fs16}Caballos de la Legión de Reconocimiento (2)\N\N\NPueden correr a una velocidad máxima de 75 a 80 km/h\Ny mantener una velocidad de 35 km/h.\NSon prácticamente la única forma\Nde escapar de un titán.
+Dialogue: 0,0:15:44.06,0:15:47.00,Default - italics,E,0000,0000,0000,,Tomé la decisión equivocada.
+Dialogue: 0,0:15:48.67,0:15:52.39,Default - italics,E,0000,0000,0000,,Como quise confiar en mis compañeros…
+Dialogue: 0,0:15:53.24,0:15:54.89,Default - italics,E,0000,0000,0000,,¡ahora están muertos!
+Dialogue: 0,0:16:04.36,0:16:09.04,Default - italics,E,0000,0000,0000,,Si hubiera confiado en mí mismo\Ny peleado desde el principio…
+Dialogue: 0,0:16:09.65,0:16:13.70,Default - italics,E,0000,0000,0000,,¡Si la hubiera matado al principio…!
+Dialogue: 0,0:16:31.09,0:16:32.22,Default - italics,E,0000,0000,0000,,Si entonces
+Dialogue: 0,0:16:33.39,0:16:35.29,Default - italics,E,0000,0000,0000,,me hubiera transformado…
+Dialogue: 0,0:16:37.30,0:16:38.22,Default - italics,E,0000,0000,0000,,No.
+Dialogue: 0,0:16:39.21,0:16:40.81,Default - italics,,0000,0000,0000,,Incluso antes.
+Dialogue: 0,0:16:42.69,0:16:44.85,Default - italics,,0000,0000,0000,,Si hubiera peleado entonces…
+Dialogue: 0,0:16:46.62,0:16:48.70,Default - italics,E,0000,0000,0000,,El capitán Levi estaba allí.
+Dialogue: 0,0:16:49.10,0:16:50.86,Default - italics,E,0000,0000,0000,,Seguro que habríamos ganado.
+Dialogue: 0,0:16:51.19,0:16:53.49,Default - italics,E,0000,0000,0000,,Quizás incluso la habríamos capturado.
+Dialogue: 0,0:16:53.90,0:16:55.61,Default,L,0000,0000,0000,,No estás equivocado.
+Dialogue: 0,0:16:56.54,0:16:58.08,Default,L,0000,0000,0000,,Si quieres hacerlo, hazlo.
+Dialogue: 0,0:17:01.40,0:17:02.40,Default - italics,E,0000,0000,0000,,Yo…
+Dialogue: 0,0:17:03.12,0:17:04.50,Default - italics,,0000,0000,0000,,Lo decidí yo.
+Dialogue: 0,0:17:05.83,0:17:10.08,Default - italics,E,0000,0000,0000,,Y mi decisión hizo que murieran todos.
+Dialogue: 0,0:17:11.55,0:17:14.13,Default - italics,E,0000,0000,0000,,Por mi culpa están…
+Dialogue: 0,0:17:16.94,0:17:19.72,Default - italics,E,0000,0000,0000,,Pero aun así…
+Dialogue: 0,0:17:20.27,0:17:22.02,Default - italics,E,0000,0000,0000,,¡Es todo culpa tuya!
+Dialogue: 0,0:17:34.32,0:17:36.24,Default - italics,E,0000,0000,0000,,Te descuartizaré.
+Dialogue: 0,0:17:36.95,0:17:39.28,Default - italics,E,0000,0000,0000,,Cuando recupere la mano…
+Dialogue: 0,0:17:39.87,0:17:43.54,Default - italics,E,0000,0000,0000,,Te desgarraré… Te machacaré…
+Dialogue: 0,0:17:44.25,0:17:47.08,Default - italics,E,0000,0000,0000,,Te haré pedazos…
+Dialogue: 0,0:17:47.08,0:17:49.29,Default - italics,E,0000,0000,0000,,¡y te comeré!
+Dialogue: 0,0:19:49.87,0:19:51.12,Default,Mi,0000,0000,0000,,¡Eren!
+Dialogue: 0,0:20:12.94,0:20:16.33,Default,Mi,0000,0000,0000,,Espera… Eren…
+Dialogue: 0,0:20:22.28,0:20:23.71,Default,Mi,0000,0000,0000,,No te vayas.
+Dialogue: 0,0:20:30.26,0:20:31.67,Default,Mi,0000,0000,0000,,Regrésamelo.
+Dialogue: 0,0:20:36.02,0:20:37.38,Default,Mi,0000,0000,0000,,Regrésamelo.
+Dialogue: 0,0:20:37.96,0:20:39.46,Default,Mi,0000,0000,0000,,¡Regrésame a Eren!
+Dialogue: 0,0:20:57.31,0:20:59.32,Default,Mi,0000,0000,0000,,¡Regrésamelo!
+Dialogue: 0,0:21:07.37,0:21:09.63,Default,,0000,0000,0000,,¡Regrésamelo!
+Dialogue: 0,0:21:13.29,0:21:15.96,Default,Mi,0000,0000,0000,,¿Por qué no le atraviesan las espadas?
+Dialogue: 0,0:21:18.29,0:21:20.96,Default,Mi,0000,0000,0000,,Está vivo, estoy segura.
+Dialogue: 0,0:21:21.71,0:21:25.09,Default,Mi,0000,0000,0000,,¡Eren está vivo!
+Dialogue: 0,0:21:26.22,0:21:29.93,Default,Mi,0000,0000,0000,,Vaya donde vaya, mataré a esa mujer.
+Dialogue: 0,0:21:29.93,0:21:32.24,Default,Mi,0000,0000,0000,,La despedazaré
+Dialogue: 0,0:21:32.24,0:21:35.69,Default,Mi,0000,0000,0000,,y te sacaré de ese sitio repugnante.
+Dialogue: 0,0:21:36.46,0:21:37.98,Default,Mi,0000,0000,0000,,Lo siento, Eren.
+Dialogue: 0,0:21:38.52,0:21:42.28,Default,Mi,0000,0000,0000,,Espera un poco más.
+Dialogue: 0,0:21:49.66,0:21:50.74,Default,Mi,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:21:51.34,0:21:52.66,Default,,0000,0000,0000,,¿Qué…?
+Dialogue: 0,0:21:55.00,0:21:56.47,Default,L,0000,0000,0000,,Aléjate por ahora.
+Dialogue: 0,0:22:02.54,0:22:03.99,Default,L,0000,0000,0000,,Mantén esta distancia.
+Dialogue: 0,0:22:04.56,0:22:08.89,Default,L,0000,0000,0000,,Puede que esté cansado.\NNo se mueve muy rápido.
+Dialogue: 0,0:22:10.30,0:22:12.92,Default,L,0000,0000,0000,,Le mordió el cuello.
+Dialogue: 0,0:22:13.41,0:22:14.85,Default,L,0000,0000,0000,,¿Eren está muerto?
+Dialogue: 0,0:22:19.00,0:22:21.98,Sign_Default3,,0000,0000,0000,,Continuará
+Dialogue: 0,0:23:51.95,0:23:53.32,Sign_Default,,0000,0000,0000,,Avance
+Dialogue: 0,0:23:53.32,0:23:56.24,Default,,0000,0000,0000,,"Eren está vivo. Regrésamelo".
+Dialogue: 0,0:23:56.93,0:24:00.12,Default,,0000,0000,0000,,La titán hembra se llevó a Eren\Nfrente a Mikasa,
+Dialogue: 0,0:24:00.44,0:24:03.72,Default,,0000,0000,0000,,quien se une al soldado más fuerte\Nde la humanidad, Levi,
+Dialogue: 0,0:24:03.72,0:24:05.81,Default,,0000,0000,0000,,para enfrentar a la titán.
+Dialogue: 0,0:24:04.98,0:25:00.00,Title,,0000,0000,0000,,Los derrotados\N57.ª expedición más allá de las murallas (6)
+

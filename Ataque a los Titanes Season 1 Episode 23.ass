@@ -1,0 +1,331 @@
+[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Default - Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0008,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Title,Times New Roman,22,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: SignA,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00221A1E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,0
+Style: Sign_Default,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,0
+Style: Sign_Default2,Times New Roman,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,0
+Style: Sign_Default3,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0070,0070,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:01:29.98,0:01:34.99,Title,Title,0000,0000,0000,,Sonrisa\NRedada en el distrito Trost (1)
+Dialogue: 0,0:01:37.71,0:01:39.16,Default,Dad,0000,0000,0000,,¡Así se hace, Annie!
+Dialogue: 0,0:01:42.16,0:01:44.12,Default,Dad,0000,0000,0000,,Esa es mi chica.
+Dialogue: 0,0:01:46.24,0:01:48.62,Default,Dad,0000,0000,0000,,¿Qué haces? ¡Nada de descansar!
+Dialogue: 0,0:02:03.85,0:02:07.27,SignA,Guys,0000,0000,0000,,{\fad(440,1)}Muralla Sina\NCiudad amurallada del este
+Dialogue: 0,0:02:04.32,0:02:06.58,Default - Margin,Guys,0000,0000,0000,,¿No lo sabías?
+Dialogue: 0,0:02:06.91,0:02:11.02,Default - Margin,Guys,0000,0000,0000,,El mocoso titán y los líderes\Nvendrán a la capital.
+Dialogue: 0,0:02:07.56,0:02:11.02,SignA,Guys,0000,0000,0000,,{\fad(484,1)}Distrito Stohess
+Dialogue: 0,0:02:11.46,0:02:13.45,Default,Guys,0000,0000,0000,,Hoy pasarán por aquí.
+Dialogue: 0,0:02:13.45,0:02:14.49,Default,Guys,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:02:14.49,0:02:17.53,Default,Guys,0000,0000,0000,,Esta vez seguro que lo diseccionarán.
+Dialogue: 0,0:02:17.53,0:02:23.24,Default,Guys,0000,0000,0000,,Sea como sea, espero que al final\Ndecidan cerrar las puertas.
+Dialogue: 0,0:02:24.54,0:02:27.80,Default,Believer,0000,0000,0000,,¿Dijiste "cerrar las puertas"?
+Dialogue: 0,0:02:28.22,0:02:32.08,Default,Believer,0000,0000,0000,,¡Los humanos no pueden\Nmancillar más las murallas!
+Dialogue: 0,0:02:33.86,0:02:36.72,Default,Believer,0000,0000,0000,,María, Rose, Sina.
+Dialogue: 0,0:02:37.09,0:02:41.92,Default,Believer,0000,0000,0000,,¡Profanar a las tres diosas\Nes imperdonable!
+Dialogue: 0,0:02:41.92,0:02:44.70,Default,Guy,0000,0000,0000,,Son los que aman y veneran las murallas.
+Dialogue: 0,0:02:44.70,0:02:45.75,Default,Guy,0000,0000,0000,,Ignóralos.
+Dialogue: 0,0:02:45.75,0:02:48.73,Default,Guy,0000,0000,0000,,¿Todavía siguen activos?
+Dialogue: 0,0:02:48.73,0:02:49.78,Default,,0000,0000,0000,,Maldita sea.
+Dialogue: 0,0:02:50.98,0:02:54.78,Default,Believer,0000,0000,0000,,¡Las murallas son lo único\Nque nos protegerá!
+Dialogue: 0,0:02:54.98,0:02:58.44,SignA,,0000,0000,0000,,{\fad(528,513)}Distrito Stohess\NCuartel de la Policía Militar
+Dialogue: 0,0:03:01.12,0:03:03.16,Default,Hi,0000,0000,0000,,Por fin despiertas.
+Dialogue: 0,0:03:03.16,0:03:07.16,Default,Hi,0000,0000,0000,,No te desperté\Nporque das miedo cuando duermes.
+Dialogue: 0,0:03:07.60,0:03:09.41,Default,Hi,0000,0000,0000,,Perdóname, Annie.
+Dialogue: 0,0:03:09.41,0:03:11.42,Default,Mar,0000,0000,0000,,Últimamente estás indisciplinada.
+Dialogue: 0,0:03:12.17,0:03:15.80,Default,Hi,0000,0000,0000,,¿Qué pasa? ¿Estás enojada?
+Dialogue: 0,0:03:15.80,0:03:17.67,Default,Ma,0000,0000,0000,,Eres como el hielo.
+Dialogue: 0,0:03:17.92,0:03:19.57,Default,Po,0000,0000,0000,,Déjenla tranquila.
+Dialogue: 0,0:03:19.57,0:03:22.02,Default,Po,0000,0000,0000,,Annie viene de Trost.
+Dialogue: 0,0:03:22.41,0:03:25.18,Default,Po,0000,0000,0000,,Es la única con experiencia\Nde combate aquí.
+Dialogue: 0,0:03:25.46,0:03:29.43,Default,Po,0000,0000,0000,,Acaba de venir del infierno,\Nes normal que aún no esté recuperada.
+Dialogue: 0,0:03:29.86,0:03:34.01,Default,Hi,0000,0000,0000,,Vaya, conque te interesa Annie, ¿eh?
+Dialogue: 0,0:03:34.64,0:03:36.49,Default,Hi,0000,0000,0000,,¿Qué tiene de bueno?
+Dialogue: 0,0:03:36.49,0:03:42.02,Default,Po,0000,0000,0000,,Hitch, solo hay una forma para que\Nuna idiota como tú se una a la Policía.
+Dialogue: 0,0:03:42.02,0:03:46.32,Default,Hi,0000,0000,0000,,No sé a qué te refieres. Dilo, vamos.
+Dialogue: 0,0:03:46.32,0:03:47.45,Default,Ma,0000,0000,0000,,Ya basta.
+Dialogue: 0,0:03:52.59,0:03:54.46,Default,D,0000,0000,0000,,No es necesario.
+Dialogue: 0,0:03:55.27,0:03:58.82,Default,D,0000,0000,0000,,Hoy tengo una tarea distinta\Npara ustedes.
+Dialogue: 0,0:03:58.82,0:04:00.46,Default,D,0000,0000,0000,,Por eso los llamé.
+Dialogue: 0,0:04:01.16,0:04:04.97,Default,D,0000,0000,0000,,Tiene relación con el grupo\Nde la Legión que va a la capital.
+Dialogue: 0,0:04:05.39,0:04:08.97,Default,D,0000,0000,0000,,Hoy cruzarán\Npor el centro de esta ciudad.
+Dialogue: 0,0:04:09.79,0:04:12.56,Default,D,0000,0000,0000,,Los escolta la Policía Militar central.
+Dialogue: 0,0:04:12.56,0:04:15.48,Default,,0000,0000,0000,,Solo tenemos\Nque lidiar con ellos mientras pasan.
+Dialogue: 0,0:04:16.20,0:04:19.22,Default,D,0000,0000,0000,,Tienen permiso temporal\Npara usar el equipo de maniobras.
+Dialogue: 0,0:04:19.56,0:04:22.99,Default,D,0000,0000,0000,,Los vigilarán\Njunto a los guardias que lleven.
+Dialogue: 0,0:04:23.34,0:04:26.87,Default,D,0000,0000,0000,,Viajarán al punto de inicio en gabarra.
+Dialogue: 0,0:04:26.87,0:04:27.78,Default,D,0000,0000,0000,,Eso es todo.
+Dialogue: 0,0:04:28.47,0:04:30.25,Default,Ma,0000,0000,0000,,¿Puedo hacer una pregunta?
+Dialogue: 0,0:04:30.25,0:04:32.00,Default,,0000,0000,0000,,¿Qué cosa?
+Dialogue: 0,0:04:32.37,0:04:35.25,Default,Ma,0000,0000,0000,,¿De qué debemos protegerlos?
+Dialogue: 0,0:04:38.20,0:04:42.46,Default,Ma,0000,0000,0000,,No sé de nadie dentro de las murallas\Nque se oponga a la monarquía.
+Dialogue: 0,0:04:43.17,0:04:45.05,Default,Ma,0000,0000,0000,,Aunque haya criminales menores,
+Dialogue: 0,0:04:45.05,0:04:50.42,Default,,0000,0000,0000,,me cuesta creer que haya organizaciones\Nque no tengan su sede en el exterior.
+Dialogue: 0,0:04:50.84,0:04:52.73,Default,Ma,0000,0000,0000,,Y no imagino el motivo.
+Dialogue: 0,0:04:52.73,0:04:55.01,Default,D,0000,0000,0000,,Eres muy serio.
+Dialogue: 0,0:04:55.01,0:04:56.94,Default,D,0000,0000,0000,,Te dejo a cargo de todo.
+Dialogue: 0,0:04:56.94,0:04:59.53,Default,D,0000,0000,0000,,Aquí tienes los detalles.
+Dialogue: 0,0:05:03.06,0:05:05.48,Default,D,0000,0000,0000,,Los superiores estamos ocupados.
+Dialogue: 0,0:05:05.48,0:05:07.81,Default,D,0000,0000,0000,,Encárguense de esto solos.
+Dialogue: 0,0:05:09.50,0:05:12.12,Default,D,0000,0000,0000,,Pero no metan la pata.
+Dialogue: 0,0:05:12.56,0:05:16.22,Default,D,0000,0000,0000,,Ya estoy de vuelta. ¿Seguimos?\N¿A quién le tocaba ahora?
+Dialogue: 0,0:05:21.72,0:05:23.55,Default,Ma,0000,0000,0000,,No se toman nada en serio.
+Dialogue: 0,0:05:23.55,0:05:24.72,Default,Hi,0000,0000,0000,,Sí.
+Dialogue: 0,0:05:24.72,0:05:28.32,Default,Hi,0000,0000,0000,,Esta organización\Nes más corrupta de lo que pensaba.
+Dialogue: 0,0:05:28.74,0:05:31.94,Default,Hi,0000,0000,0000,,Aunque por eso la elegí.
+Dialogue: 0,0:05:31.94,0:05:36.24,Default,Hi,0000,0000,0000,,Pero es un fastidio que encarguen\Ntodo el trabajo a los nuevos.
+Dialogue: 0,0:05:36.24,0:05:38.73,Default,Hi,0000,0000,0000,,Eso no lo sabía.
+Dialogue: 0,0:05:38.73,0:05:40.13,Default,Ma,0000,0000,0000,,Son escoria.
+Dialogue: 0,0:05:40.13,0:05:43.82,Default,Ma,0000,0000,0000,,Escoria que solo es capaz\Nde pensar en sí misma.
+Dialogue: 0,0:05:43.82,0:05:46.74,Default,Po,0000,0000,0000,,¿Qué dices, Marlo?
+Dialogue: 0,0:05:46.74,0:05:50.20,Default,Po,0000,0000,0000,,Si escogiste la Policía,\Neres igual que ellos.
+Dialogue: 0,0:05:52.45,0:05:56.19,Default,Ma,0000,0000,0000,,¡No lo soy! No me comparen\Ncon escoria como ustedes.
+Dialogue: 0,0:05:56.63,0:05:59.77,Default,Ma,0000,0000,0000,,Vine para reformar la Policía Militar.
+Dialogue: 0,0:06:02.65,0:06:04.37,Default,Hi,0000,0000,0000,,Eso es increíble, Marlo.
+Dialogue: 0,0:06:04.37,0:06:06.67,Default,Hi,0000,0000,0000,,No sabía que fueras así.
+Dialogue: 0,0:06:06.67,0:06:08.55,Default,Po,0000,0000,0000,,¿Y cómo la reformarás?
+Dialogue: 0,0:06:09.08,0:06:11.04,Default,Ma,0000,0000,0000,,Tengo que ascender.
+Dialogue: 0,0:06:11.44,0:06:12.88,Default,Ma,0000,0000,0000,,Cuando esté al mando,
+Dialogue: 0,0:06:12.88,0:06:17.76,Default,Ma,0000,0000,0000,,corregiré la disciplina\Ny castigaré a todos los corruptos.
+Dialogue: 0,0:06:17.76,0:06:18.89,Default,Ma,0000,0000,0000,,Es sencillo.
+Dialogue: 0,0:06:20.18,0:06:23.90,Default,Ma,0000,0000,0000,,Haré que volvamos a ser\Nseres humanos normales, eso es todo.
+Dialogue: 0,0:06:24.61,0:06:26.96,Default,Ma,0000,0000,0000,,A ser como debemos ser.
+Dialogue: 0,0:06:28.97,0:06:31.91,Default,Hi,0000,0000,0000,,¡Eres legítimo!
+Dialogue: 0,0:06:31.91,0:06:35.16,Default,Hi,0000,0000,0000,,Y yo pensando que eras aburrido.\NLo siento.
+Dialogue: 0,0:06:36.12,0:06:38.88,Default,Po,0000,0000,0000,,Es un objetivo admirable.
+Dialogue: 0,0:06:38.88,0:06:40.47,Default,Po,0000,0000,0000,,Ánimo.
+Dialogue: 0,0:06:40.47,0:06:41.66,Default,A,0000,0000,0000,,No sé yo.
+Dialogue: 0,0:06:42.77,0:06:46.13,Default,A,0000,0000,0000,,Si una buena persona acaba al mando,
+Dialogue: 0,0:06:46.13,0:06:48.42,Default,A,0000,0000,0000,,creo que estaremos acabados.
+Dialogue: 0,0:06:48.42,0:06:51.68,Default,Ma,0000,0000,0000,,Vaya, si sabes hablar.
+Dialogue: 0,0:06:52.63,0:06:55.13,Default,A,0000,0000,0000,,Creo que tienes razón.
+Dialogue: 0,0:06:55.74,0:06:57.50,Default,A,0000,0000,0000,,Dices cosas correctas.
+Dialogue: 0,0:06:58.11,0:07:00.44,Default,A,0000,0000,0000,,Sé que hay otros como tú.
+Dialogue: 0,0:07:01.66,0:07:05.90,Default,A,0000,0000,0000,,Para ir contra la corriente\Nse requiere mucho valor.
+Dialogue: 0,0:07:06.28,0:07:07.50,Default,A,0000,0000,0000,,Lo respeto.
+Dialogue: 0,0:07:08.89,0:07:11.70,Default,A,0000,0000,0000,,Aunque quizás solo seas un idiota.
+Dialogue: 0,0:07:12.62,0:07:15.16,Default,Ma,0000,0000,0000,,El idiota lo será\Nquienquiera que conocieras.
+Dialogue: 0,0:07:15.55,0:07:16.79,Default,Ma,0000,0000,0000,,No nos compares.
+Dialogue: 0,0:07:19.11,0:07:21.84,Default,Ma,0000,0000,0000,,Hablamos demasiado. ¡Nos vamos!
+Dialogue: 0,0:07:27.87,0:07:31.47,Default,Ma,0000,0000,0000,,Los vagones escolta cruzarán\Nla puerta exterior en 45 minutos.
+Dialogue: 0,0:07:31.87,0:07:35.09,Default,Ma,0000,0000,0000,,Cuando lleguemos,\Nrevisen qué puesto deben tomar.
+Dialogue: 0,0:07:35.53,0:07:36.41,Default,Ma,0000,0000,0000,,¿Entendido?
+Dialogue: 0,0:07:36.41,0:07:37.80,Default,,0000,0000,0000,,Sí, sí.
+Dialogue: 0,0:07:43.02,0:07:43.98,Default,Hi,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:07:45.38,0:07:46.48,Default,Hi,0000,0000,0000,,¿Qué hacen?
+Dialogue: 0,0:07:46.98,0:07:48.69,Default,Hi,0000,0000,0000,,Es nuestro equipo.
+Dialogue: 0,0:07:48.99,0:07:50.61,Default,Po,0000,0000,0000,,Lo llevarán hacia el interior.
+Dialogue: 0,0:07:50.61,0:07:53.95,Default,Ma,0000,0000,0000,,Eso no explica la presencia\Nde la asociación de mercaderes.
+Dialogue: 0,0:07:55.25,0:07:57.04,Default,Ma,0000,0000,0000,,¿Qué está sucedie…?
+Dialogue: 0,0:08:05.02,0:08:07.88,Default,Ma,0000,0000,0000,,¿Venden nuestro equipo ilegalmente?
+Dialogue: 0,0:08:10.17,0:08:12.44,Default,Po,0000,0000,0000,,¿Qué pasa con la misión?
+Dialogue: 0,0:08:12.44,0:08:15.67,Default,Hi,0000,0000,0000,,Rayos, es legítimo de verdad.
+Dialogue: 0,0:08:15.67,0:08:18.40,Default,Po,0000,0000,0000,,Para bien o para mal, tenemos tiempo.
+Dialogue: 0,0:08:18.40,0:08:20.14,Default,Po,0000,0000,0000,,Disfrutemos del espectáculo.
+Dialogue: 0,0:08:27.92,0:08:30.11,Default,MP,0000,0000,0000,,Vamos a beber algo.
+Dialogue: 0,0:08:33.17,0:08:35.46,Default,MP,0000,0000,0000,,¿Qué quieres, novato?
+Dialogue: 0,0:08:36.04,0:08:40.29,Default,Ma,0000,0000,0000,,Vender equipo oficial es un delito.
+Dialogue: 0,0:08:41.36,0:08:42.29,Default,MP,0000,0000,0000,,¿Y qué?
+Dialogue: 0,0:08:43.95,0:08:49.74,Default,Ma,0000,0000,0000,,Ese equipo se paga con los impuestos\Nde la gente, por lo tanto…
+Dialogue: 0,0:08:51.18,0:08:55.13,Default,MP,0000,0000,0000,,¿Un novato amenazando a sus superiores?
+Dialogue: 0,0:08:55.64,0:08:58.58,Default,MP,0000,0000,0000,,Me muero por ver\Nqué te depara el futuro.
+Dialogue: 0,0:09:00.93,0:09:03.78,Default,MP,0000,0000,0000,,Ve a comprarte una mujer y relájate.
+Dialogue: 0,0:09:06.16,0:09:07.67,Default,Ma,0000,0000,0000,,¡Esperen!
+Dialogue: 0,0:09:08.70,0:09:10.61,Default,Ma,0000,0000,0000,,Vender equipo oficial…
+Dialogue: 0,0:09:33.78,0:09:34.77,Default,,0000,0000,0000,,Oye…
+Dialogue: 0,0:09:38.30,0:09:41.08,Default,MP,0000,0000,0000,,Te arrestamos\Npor rebelarte contra un superior.
+Dialogue: 0,0:09:41.66,0:09:44.36,Default,Ma,0000,0000,0000,,Sus actos ilegales…
+Dialogue: 0,0:09:44.36,0:09:45.52,Default,MP,0000,0000,0000,,Están permitidos.
+Dialogue: 0,0:09:46.40,0:09:47.36,Default,MP,0000,0000,0000,,Aquí sí.
+Dialogue: 0,0:09:50.69,0:09:53.15,Default,Annie,0000,0000,0000,,¿Podría perdonarlo?
+Dialogue: 0,0:09:55.84,0:10:00.16,Default,Hi,0000,0000,0000,,Siento que este idiota\Nles causara problemas.
+Dialogue: 0,0:10:00.98,0:10:04.16,Default,Hi,0000,0000,0000,,Nos encargaremos de educarlo.
+Dialogue: 0,0:10:04.16,0:10:05.75,Default,Hi,0000,0000,0000,,¿O acaso…
+Dialogue: 0,0:10:06.70,0:10:10.52,Default,Hi,0000,0000,0000,,prefieren montar una escena?
+Dialogue: 0,0:10:13.74,0:10:15.22,Default,MP,0000,0000,0000,,Solo por esta vez.
+Dialogue: 0,0:10:15.53,0:10:16.54,Default,All,0000,0000,0000,,¡Sí, señor!
+Dialogue: 0,0:10:19.80,0:10:21.95,Default,MP,0000,0000,0000,,Vamos a beber.
+Dialogue: 0,0:10:21.95,0:10:24.35,Default,MP,0000,0000,0000,,Sí, hoy fue un día duro.
+Dialogue: 0,0:10:35.96,0:10:36.88,Default,An,0000,0000,0000,,Hazlo.
+Dialogue: 0,0:10:38.88,0:10:43.58,Default,An,0000,0000,0000,,¿No ibas a castigar a los corruptos?
+Dialogue: 0,0:10:44.62,0:10:47.74,Default,An,0000,0000,0000,,Si quieres, te ayudaré.
+Dialogue: 0,0:10:53.50,0:10:54.78,Default,MP,0000,0000,0000,,¿Qué comemos?
+Dialogue: 0,0:10:54.78,0:10:56.76,Default,MP,0000,0000,0000,,Carne, obviamente.
+Dialogue: 0,0:11:00.50,0:11:01.59,Default,Ma,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:11:03.91,0:11:07.60,Default,Guys,0000,0000,0000,,Sabemos que te esfuerzas mucho.
+Dialogue: 0,0:11:07.60,0:11:09.94,Default,Hi,0000,0000,0000,,Para nada.
+Dialogue: 0,0:11:13.22,0:11:15.02,Default,Ma,0000,0000,0000,,Tu amigo…
+Dialogue: 0,0:11:16.42,0:11:19.86,Default,Ma,0000,0000,0000,,¿Ese idiota del que hablaste\Nlo habría hecho?
+Dialogue: 0,0:11:23.25,0:11:24.33,Default,An,0000,0000,0000,,Quizás.
+Dialogue: 0,0:11:29.05,0:11:32.04,Default,Ma,0000,0000,0000,,Entonces, soy uno de esos desechos
+Dialogue: 0,0:11:32.36,0:11:37.79,Default,,0000,0000,0000,,que se dejan arrastrar\Npor la corriente, ¿no es así?
+Dialogue: 0,0:11:38.81,0:11:40.34,Default,An,0000,0000,0000,,No lo sé.
+Dialogue: 0,0:11:42.10,0:11:45.85,Default,An,0000,0000,0000,,Pero eso también es ser\Nun ser humano normal, ¿no?
+Dialogue: 0,0:11:47.53,0:11:49.04,Default,An,0000,0000,0000,,Yo solo…
+Dialogue: 0,0:11:49.69,0:11:53.35,Default,,0000,0000,0000,,quiero que los débiles\Nque se dejan llevar
+Dialogue: 0,0:11:54.05,0:11:56.16,Default,,0000,0000,0000,,también se consideren humanos.
+Dialogue: 0,0:12:20.18,0:12:21.21,Default,Ar,0000,0000,0000,,Annie…
+Dialogue: 0,0:12:33.48,0:12:34.48,Default,Ar,0000,0000,0000,,Hola.
+Dialogue: 0,0:12:35.16,0:12:38.00,Default,Ar,0000,0000,0000,,Ya eres parte\Nde la Policía Militar, ¿eh?
+Dialogue: 0,0:12:39.95,0:12:41.08,Default,An,0000,0000,0000,,Armin…
+Dialogue: 0,0:12:42.99,0:12:47.99,Sign_Default,,0000,0000,0000,,Información pública actualmente
+Dialogue: 0,0:12:42.99,0:12:47.99,Sign_Default,An,0000,0000,0000,,{\an6\fs16}La Policía Militar (1)\N\N\NCuenta con aproximadamente 2,000 soldados,\Npero contando con las Tropas Estacionarias\Nbajo su mando, suman alrededor de 5,000.
+Dialogue: 0,0:12:47.99,0:12:53.00,Sign_Default,,0000,0000,0000,,Información pública actualmente
+Dialogue: 0,0:12:47.99,0:12:53.00,Sign_Default2,An,0000,0000,0000,,{\an4\fs16}La Policía Militar (2)\N\N\NHay unos 200 miembros de la Policía en cada ciudad amurallada.\NSu trabajo consiste en supervisar brigadas de reclutas,\Ncontrolar a las Tropas Estacionarias y dirigir la extinción de incendios.
+Dialogue: 0,0:12:54.50,0:12:57.00,Default,An,0000,0000,0000,,¿Por qué vas vestido así?
+Dialogue: 0,0:12:57.36,0:12:58.88,Default,Ar,0000,0000,0000,,Soy un transportista.
+Dialogue: 0,0:12:59.30,0:13:03.52,Default,Ar,0000,0000,0000,,Oculto el equipo de maniobras\Nbajo el chubasquero.
+Dialogue: 0,0:13:04.00,0:13:05.05,Default,Ar,0000,0000,0000,,¿Ves?
+Dialogue: 0,0:13:06.03,0:13:07.55,Default,An,0000,0000,0000,,¿Qué significa esto?
+Dialogue: 0,0:13:08.44,0:13:12.98,Default,Ar,0000,0000,0000,,Annie, ¿nos ayudarás\Na hacer que Eren escape?
+Dialogue: 0,0:13:13.30,0:13:14.82,Default,An,0000,0000,0000,,¿Escapar? ¿Adónde?
+Dialogue: 0,0:13:15.18,0:13:19.62,Default,An,0000,0000,0000,,Si desobedecen a la monarquía,\Nno podrán quedarse en las murallas.
+Dialogue: 0,0:13:19.62,0:13:21.80,Default,Ar,0000,0000,0000,,Nos esconderemos por un tiempo.
+Dialogue: 0,0:13:22.16,0:13:24.90,Default,Ar,0000,0000,0000,,No pretendo desafiar\Na la monarquía de frente.
+Dialogue: 0,0:13:25.49,0:13:29.28,Default,Ar,0000,0000,0000,,Se considerará una rebelión\Nde una parte de la Legión,
+Dialogue: 0,0:13:29.28,0:13:30.78,Default,Ar,0000,0000,0000,,pero ganaremos tiempo
+Dialogue: 0,0:13:30.78,0:13:35.28,Default,Ar,0000,0000,0000,,para encontrar materiales que usar\Na nuestro favor en el tribunal.
+Dialogue: 0,0:13:35.28,0:13:36.56,Default,Ar,0000,0000,0000,,Y los encontraremos.
+Dialogue: 0,0:13:37.33,0:13:39.24,Default,An,0000,0000,0000,,¿Materiales a su favor?
+Dialogue: 0,0:13:39.62,0:13:43.42,Default,An,0000,0000,0000,,¿De verdad existe tal cosa?\N¿En qué te basas?
+Dialogue: 0,0:13:46.11,0:13:47.93,Default,Ar,0000,0000,0000,,Lo siento, no puedo decirlo.
+Dialogue: 0,0:13:50.98,0:13:53.85,Default,An,0000,0000,0000,,Lo siento,\Npero lo que pides no tiene caso.
+Dialogue: 0,0:13:54.30,0:13:57.00,Default,An,0000,0000,0000,,No diré nada, pero hazlo por tu cuenta.
+Dialogue: 0,0:13:58.27,0:14:02.61,Default,Ar,0000,0000,0000,,Por favor, Annie.\N¡A este paso, matarán a Eren!
+Dialogue: 0,0:14:04.61,0:14:08.59,Default,Ar,0000,0000,0000,,Unos tipos que no saben nada\Nnos llevan sin saberlo
+Dialogue: 0,0:14:08.59,0:14:12.34,Default,,0000,0000,0000,,hacia la destrucción propia\Nsolo para salvar sus pellejos.
+Dialogue: 0,0:14:12.96,0:14:15.55,Default,Ar,0000,0000,0000,,Sé que soy poco convincente,
+Dialogue: 0,0:14:16.12,0:14:17.67,Default,Ar,0000,0000,0000,,pero aun así…
+Dialogue: 0,0:14:17.67,0:14:20.30,Default,Ar,0000,0000,0000,,¡tenemos que apostar a lo grande!
+Dialogue: 0,0:14:21.85,0:14:25.28,Default,Ar,0000,0000,0000,,Haré todo lo posible\Npara no traerte problemas.
+Dialogue: 0,0:14:25.66,0:14:29.54,Default,Ar,0000,0000,0000,,Pero para atravesar los controles\Ndentro de la Muralla Sina
+Dialogue: 0,0:14:29.54,0:14:32.14,Default,Ar,0000,0000,0000,,necesitamos a alguien de la Policía.
+Dialogue: 0,0:14:32.84,0:14:34.84,Default,Ar,0000,0000,0000,,Es nuestra única opción.
+Dialogue: 0,0:14:36.58,0:14:41.15,Default,An,0000,0000,0000,,¿De verdad te parezco buena persona?
+Dialogue: 0,0:14:42.02,0:14:44.60,Default,Ar,0000,0000,0000,,¿Buena persona?
+Dialogue: 0,0:14:45.57,0:14:49.15,Default,Ar,0000,0000,0000,,La verdad es que no me gusta\Nesa expresión.
+Dialogue: 0,0:14:49.52,0:14:51.32,Default,Ar,0000,0000,0000,,Me da la sensación
+Dialogue: 0,0:14:51.32,0:14:56.23,Default,,0000,0000,0000,,de que solo llamas así\Na la gente que es buena para ti.
+Dialogue: 0,0:14:57.14,0:15:01.42,Default,Ar,0000,0000,0000,,Y no hay nadie bueno para todo el mundo.
+Dialogue: 0,0:15:01.72,0:15:05.38,Default,Ar,0000,0000,0000,,Si no aceptas ayudarme con esto,
+Dialogue: 0,0:15:06.92,0:15:10.43,Default,Ar,0000,0000,0000,,entonces, para mí serás mala persona.
+Dialogue: 0,0:15:27.98,0:15:28.94,Default,An,0000,0000,0000,,Está bien.
+Dialogue: 0,0:15:35.78,0:15:36.90,Default,An,0000,0000,0000,,Acepto.
+Dialogue: 0,0:15:48.87,0:15:51.41,Default,E,0000,0000,0000,,Cruzamos sin muchas dificultades.
+Dialogue: 0,0:15:52.45,0:15:56.64,Default,E,0000,0000,0000,,Ya se ve lo mucho que trabaja\Nla Policía Militar.
+Dialogue: 0,0:15:56.64,0:15:58.14,Default,Mi,0000,0000,0000,,No fisgues.
+Dialogue: 0,0:15:58.72,0:16:01.93,Default,E,0000,0000,0000,,Espero que no descubran\Nque Jean se disfrazó de mí.
+Dialogue: 0,0:16:01.93,0:16:04.03,Default,E,0000,0000,0000,,El truco no durará mucho.
+Dialogue: 0,0:16:04.73,0:16:07.98,Default,E,0000,0000,0000,,No nos parecemos en nada.
+Dialogue: 0,0:16:08.43,0:16:09.82,Default,Ar,0000,0000,0000,,Tranquilo,
+Dialogue: 0,0:16:09.82,0:16:13.74,Default,,0000,0000,0000,,ambos tienen la mirada amenazante\Nde unos criminales.
+Dialogue: 0,0:16:14.10,0:16:16.15,Default,E,0000,0000,0000,,Yo no tengo cara de caballo.
+Dialogue: 0,0:16:16.15,0:16:21.62,Default,An,0000,0000,0000,,¿Cómo planeaban cruzar la muralla\Nsin mi ayuda?
+Dialogue: 0,0:16:22.14,0:16:24.88,Default,Ar,0000,0000,0000,,Lanzándonos con el equipo de maniobras.
+Dialogue: 0,0:16:25.26,0:16:26.72,Default,An,0000,0000,0000,,Es una locura.
+Dialogue: 0,0:16:26.72,0:16:32.63,Default,An,0000,0000,0000,,Habría sido más sencillo\Nescapar antes de llegar a Stohess.
+Dialogue: 0,0:16:33.29,0:16:35.28,Default,An,0000,0000,0000,,¿Por qué aquí y ahora?
+Dialogue: 0,0:16:35.68,0:16:37.94,Default,Ar,0000,0000,0000,,Como esta ciudad es intrincada,
+Dialogue: 0,0:16:37.94,0:16:41.30,Default,,0000,0000,0000,,creí que sería más fácil\Ncambiar a Eren por Jean.
+Dialogue: 0,0:16:41.64,0:16:44.94,Default,Ar,0000,0000,0000,,Además, si en lugar de oponernos\Ndesde un principio
+Dialogue: 0,0:16:44.94,0:16:48.01,Default,,0000,0000,0000,,fingíamos ser obedientes,\Nbajarían la guardia
+Dialogue: 0,0:16:48.01,0:16:50.11,Default,,0000,0000,0000,,y tendríamos más tiempo para huir.
+Dialogue: 0,0:16:51.55,0:16:52.53,Default,An,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:16:53.31,0:16:54.56,Default,An,0000,0000,0000,,Lo entiendo.
+Dialogue: 0,0:16:59.25,0:17:00.31,Default,Ar,0000,0000,0000,,¡Ahí!
+Dialogue: 0,0:17:09.42,0:17:10.57,Default,An,0000,0000,0000,,¿Aquí?
+Dialogue: 0,0:17:10.57,0:17:12.86,Default,Ar,0000,0000,0000,,Sí, pasaremos por ahí.
+Dialogue: 0,0:17:13.30,0:17:17.42,Default,Ar,0000,0000,0000,,Son las ruinas de una ciudad\Nsubterránea que quedó a medias.
+Dialogue: 0,0:17:19.85,0:17:23.74,Default,Ar,0000,0000,0000,,Llega hasta cerca de la puerta exterior.
+Dialogue: 0,0:17:23.74,0:17:25.67,Default,E,0000,0000,0000,,¿De verdad? Es impresionante.
+Dialogue: 0,0:17:27.58,0:17:28.52,Default,E,0000,0000,0000,,¿Annie?
+Dialogue: 0,0:17:29.06,0:17:30.44,Default,E,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:17:30.93,0:17:34.19,Default,E,0000,0000,0000,,No me digas que te dan miedo\Nlos sitios cerrados y oscuros.
+Dialogue: 0,0:17:35.38,0:17:37.73,Default,An,0000,0000,0000,,Sí, me dan miedo.
+Dialogue: 0,0:17:38.45,0:17:41.74,Default,An,0000,0000,0000,,Aunque un suicida valiente como tú
+Dialogue: 0,0:17:42.10,0:17:45.50,Default,,0000,0000,0000,,no entendería lo que siente\Nuna frágil dama.
+Dialogue: 0,0:17:49.06,0:17:53.64,Default,E,0000,0000,0000,,Una dama capaz de hacer volar a un\Nhombre fornido no tiene nada de frágil.
+Dialogue: 0,0:17:53.98,0:17:55.90,Default,E,0000,0000,0000,,No digas tonterías y apurémonos.
+Dialogue: 0,0:17:56.28,0:17:58.51,Default,An,0000,0000,0000,,No, no iré.
+Dialogue: 0,0:17:59.72,0:18:01.34,Default,An,0000,0000,0000,,Me da miedo.
+Dialogue: 0,0:18:01.82,0:18:04.55,Default,An,0000,0000,0000,,Si no vamos por la superficie,\Nno ayudaré.
+Dialogue: 0,0:18:14.70,0:18:16.66,Default,E,0000,0000,0000,,Pero ¿qué dices?
+Dialogue: 0,0:18:16.66,0:18:18.03,Default,E,0000,0000,0000,,¡Ven de una vez!
+Dialogue: 0,0:18:18.03,0:18:19.42,Default,E,0000,0000,0000,,¡Esto no tiene gracia!
+Dialogue: 0,0:18:19.42,0:18:20.79,Default,Mi,0000,0000,0000,,Eren, no grites.
+Dialogue: 0,0:18:20.79,0:18:22.78,Default,An,0000,0000,0000,,No importa, Mikasa.
+Dialogue: 0,0:18:24.29,0:18:26.24,Default,An,0000,0000,0000,,Porque por esta zona…
+Dialogue: 0,0:18:26.94,0:18:30.55,Default,,0000,0000,0000,,hace rato que no hay nadie,\Nno sé por qué.
+Dialogue: 0,0:18:38.60,0:18:41.43,Default,An,0000,0000,0000,,Me lastimas.
+Dialogue: 0,0:18:44.40,0:18:49.56,Default,An,0000,0000,0000,,¿Desde cuándo me miras así,
+Dialogue: 0,0:18:50.40,0:18:51.42,Default,An,0000,0000,0000,,Armin?
+Dialogue: 0,0:18:53.05,0:18:55.03,Default,Ar,0000,0000,0000,,¿Por qué, Annie?
+Dialogue: 0,0:18:56.07,0:18:59.11,Default,Ar,0000,0000,0000,,¿Por qué tenías el equipo\Nde maniobras de Marco?
+Dialogue: 0,0:19:04.04,0:19:06.67,Default,Ar,0000,0000,0000,,Recuerdo todos sus arañazos\Ny abolladuras
+Dialogue: 0,0:19:06.67,0:19:08.96,Default,,0000,0000,0000,,porque lo reparamos juntos.
+Dialogue: 0,0:19:10.06,0:19:11.80,Default,,0000,0000,0000,,Por eso lo reconocí.
+Dialogue: 0,0:19:12.17,0:19:13.46,Default,An,0000,0000,0000,,Ya veo.
+Dialogue: 0,0:19:14.38,0:19:17.46,Default,An,0000,0000,0000,,Lo encontré por ahí.
+Dialogue: 0,0:19:19.84,0:19:25.22,Default,Ar,0000,0000,0000,,¿Mataste a los dos titanes\Nque capturamos?
+Dialogue: 0,0:19:25.22,0:19:26.66,Default,An,0000,0000,0000,,¿Quién sabe?
+Dialogue: 0,0:19:27.36,0:19:32.40,Default,An,0000,0000,0000,,Si pensabas eso hace un mes,\N¿por qué no actuaste entonces?
+Dialogue: 0,0:19:32.40,0:19:34.52,Default,Ar,0000,0000,0000,,Porque aún no puedo creerlo.
+Dialogue: 0,0:19:35.14,0:19:38.58,Default,Ar,0000,0000,0000,,Quería pensar que estaba equivocado.
+Dialogue: 0,0:19:38.96,0:19:40.28,Default,Ar,0000,0000,0000,,Por culpa de eso…
+Dialogue: 0,0:19:41.89,0:19:44.24,Default,Ar,0000,0000,0000,,Pero tú…
+Dialogue: 0,0:19:45.80,0:19:49.25,Default,Ar,0000,0000,0000,,Tú tampoco me mataste.
+Dialogue: 0,0:19:50.06,0:19:53.96,Default,Ar,0000,0000,0000,,Por eso estamos aquí ahora.
+Dialogue: 0,0:20:02.05,0:20:04.94,Default,An,0000,0000,0000,,Pienso exactamente lo mismo.
+Dialogue: 0,0:20:06.25,0:20:10.04,Default,An,0000,0000,0000,,No esperaba que me acorralaras así.
+Dialogue: 0,0:20:13.14,0:20:18.28,Default,An,0000,0000,0000,,¿Por qué no te maté?
+Dialogue: 0,0:20:18.91,0:20:22.32,Default,E,0000,0000,0000,,Annie, todavía existe la posibilidad\Nde que seas idiota
+Dialogue: 0,0:20:22.32,0:20:27.41,Default,,0000,0000,0000,,y estés siguiéndole el juego\Npara gastar una broma nada graciosa.
+Dialogue: 0,0:20:27.98,0:20:29.55,Default,E,0000,0000,0000,,Ven aquí.
+Dialogue: 0,0:20:30.85,0:20:34.14,Default,E,0000,0000,0000,,Puedes demostrar algo\Nsolo yendo bajo tierra.
+Dialogue: 0,0:20:34.14,0:20:35.79,Default,E,0000,0000,0000,,¡Ven y demuéstralo!
+Dialogue: 0,0:20:36.90,0:20:38.55,Default,An,0000,0000,0000,,No iré.
+Dialogue: 0,0:20:38.55,0:20:41.55,Default,An,0000,0000,0000,,No pude convertirme en una guerrera.
+Dialogue: 0,0:20:41.55,0:20:44.55,Default,E,0000,0000,0000,,¡Que no tiene gracia!
+Dialogue: 0,0:20:44.55,0:20:47.93,Default,Ar,0000,0000,0000,,Habla con nosotros, Annie.\NTodavía podemos…
+Dialogue: 0,0:20:47.93,0:20:49.32,Default,Mi,0000,0000,0000,,Se acabó.
+Dialogue: 0,0:20:50.05,0:20:51.73,Default,Mi,0000,0000,0000,,No aguanto más.
+Dialogue: 0,0:20:53.12,0:20:54.40,Default,Mi,0000,0000,0000,,Es inútil.
+Dialogue: 0,0:20:56.40,0:21:00.91,Default,Mi,0000,0000,0000,,¡Te haré trizas de nuevo, titán hembra!
+Dialogue: 0,0:21:27.46,0:21:32.31,Default,An,0000,0000,0000,,Armin, me alegro de haber sido\Nuna buena persona para ti.
+Dialogue: 0,0:21:33.31,0:21:35.70,Default,An,0000,0000,0000,,Esta apuesta la ganas tú.
+Dialogue: 0,0:21:38.45,0:21:39.48,Default,An,0000,0000,0000,,Pero…
+Dialogue: 0,0:21:40.16,0:21:43.36,Default,An,0000,0000,0000,,¡mi apuesta empieza ahora!
+Dialogue: 0,0:21:56.86,0:21:57.86,Default,Mi,0000,0000,0000,,¡Eren!
+Dialogue: 0,0:22:03.78,0:22:04.80,Default,Ar,0000,0000,0000,,¡Mikasa!
+Dialogue: 0,0:22:04.80,0:22:06.02,Default,Mi,0000,0000,0000,,Tardamos demasiado.
+Dialogue: 0,0:22:18.98,0:22:21.98,Sign_Default3,,0000,0000,0000,,Continuará
+Dialogue: 0,0:23:51.95,0:23:53.32,Sign_Default,,0000,0000,0000,,Avance
+Dialogue: 0,0:23:53.33,0:23:57.52,Default,,0000,0000,0000,,La titán hembra\Nresultó ser Annie Leonhart.
+Dialogue: 0,0:23:57.98,0:24:02.00,Default,,0000,0000,0000,,Sin embargo, Eren es incapaz\Nde transformarse frente a la titán
+Dialogue: 0,0:24:03.02,0:24:06.18,Default,,0000,0000,0000,,porque se trata de Annie.
+Dialogue: 0,0:24:04.96,0:24:08.95,Title,,0000,0000,0000,,Piedad\NRedada en el distrito Trost (2)
+

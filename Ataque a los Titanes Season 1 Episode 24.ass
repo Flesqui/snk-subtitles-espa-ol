@@ -1,0 +1,324 @@
+[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Default - Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0008,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Title,Times New Roman,22,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: SignA,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00221A1E,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,0
+Style: Sign_Default,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,0
+Style: Sign_Default2,Times New Roman,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,0
+Style: Sign_Default3,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0070,0070,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:01.24,0:00:06.03,Default,Recap,0000,0000,0000,,Armin, me alegro de haber sido\Nuna buena persona para ti.
+Dialogue: 0,0:00:07.05,0:00:09.46,Default,Recap,0000,0000,0000,,Esta apuesta la ganas tú.
+Dialogue: 0,0:00:10.71,0:00:11.82,Default,Recap,0000,0000,0000,,Pero…
+Dialogue: 0,0:00:12.52,0:00:15.24,Default,Recap,0000,0000,0000,,¡mi apuesta empieza ahora!
+Dialogue: 0,0:00:32.52,0:00:35.58,Default,Er,0000,0000,0000,,Encontramos a la posible persona\Nde la titán hembra.
+Dialogue: 0,0:00:37.19,0:00:38.43,Default,Er,0000,0000,0000,,Se llama…
+Dialogue: 0,0:00:39.22,0:00:40.26,Default,E,0000,0000,0000,,Annie…
+Dialogue: 0,0:02:19.99,0:02:24.99,Title,,0000,0000,0000,,Piedad\NRedada en el distrito Trost (2)
+Dialogue: 0,0:02:26.75,0:02:29.00,Title,,0000,0000,0000,,{\fad(452,1)}Unos días antes
+Dialogue: 0,0:02:29.96,0:02:31.50,Default,L,0000,0000,0000,,Llegan tarde.
+Dialogue: 0,0:02:31.80,0:02:35.12,Default,L,0000,0000,0000,,Erwin y sus hombres\Nme están haciendo esperar.
+Dialogue: 0,0:02:35.71,0:02:39.56,Default,L,0000,0000,0000,,A este paso llegará antes\Nla escolta de la Policía Militar.
+Dialogue: 0,0:02:41.51,0:02:46.02,Default,L,0000,0000,0000,,Imagino que les estará costando evacuar.
+Dialogue: 0,0:02:49.35,0:02:52.52,Default,E,0000,0000,0000,,Hoy habla mucho, capitán.
+Dialogue: 0,0:02:52.52,0:02:53.61,Default,L,0000,0000,0000,,Tonterías.
+Dialogue: 0,0:02:54.09,0:02:56.28,Default,L,0000,0000,0000,,Yo siempre hablo mucho.
+Dialogue: 0,0:03:05.62,0:03:06.90,Default,E,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:03:07.33,0:03:10.58,Default,E,0000,0000,0000,,Si no hubiera tomado\Nla decisión equivocada,
+Dialogue: 0,0:03:11.06,0:03:12.37,Default,E,0000,0000,0000,,esto no habría pasado.
+Dialogue: 0,0:03:14.13,0:03:17.99,Default,L,0000,0000,0000,,Ya dije que nadie sabe nunca\Nlo que pasará.
+Dialogue: 0,0:03:21.30,0:03:22.80,Default,Er,0000,0000,0000,,Siento llegar tarde.
+Dialogue: 0,0:03:22.80,0:03:23.97,Default,,0000,0000,0000,,No importa, señor.
+Dialogue: 0,0:03:25.30,0:03:26.47,Default,Er,0000,0000,0000,,Chicos…
+Dialogue: 0,0:03:28.02,0:03:29.98,Default,,0000,0000,0000,,Este…
+Dialogue: 0,0:03:29.98,0:03:32.77,Default,Er,0000,0000,0000,,Encontramos a la posible persona\Nde la titán hembra.
+Dialogue: 0,0:03:34.36,0:03:36.40,Default,Er,0000,0000,0000,,Esta vez la atraparemos.
+Dialogue: 0,0:03:41.20,0:03:43.07,Default,Er,0000,0000,0000,,La operación será en dos días.
+Dialogue: 0,0:03:43.53,0:03:48.26,Default,Er,0000,0000,0000,,La realizaremos en Stohess,\Nde camino a la capital.
+Dialogue: 0,0:03:49.04,0:03:51.46,Default,Er,0000,0000,0000,,Será nuestra única oportunidad.
+Dialogue: 0,0:03:51.87,0:03:55.40,Default,Er,0000,0000,0000,,Una vez pasado este punto,\Nenviarán a Eren a la capital
+Dialogue: 0,0:03:55.83,0:03:59.56,Default,Er,0000,0000,0000,,y nos será difícil perseguir\Na los que planean destruir las murallas.
+Dialogue: 0,0:04:00.50,0:04:04.00,Default,Er,0000,0000,0000,,En consecuencia,\Nnuestra extinción se volverá palpable.
+Dialogue: 0,0:04:04.84,0:04:07.22,Default,Er,0000,0000,0000,,Lo apostaremos todo en esta misión.
+Dialogue: 0,0:04:09.22,0:04:10.47,Default,Er,0000,0000,0000,,Este es el plan.
+Dialogue: 0,0:04:11.52,0:04:14.86,Default,Er,0000,0000,0000,,En Stohess, Eren será la carnada\Npara atraer al objetivo
+Dialogue: 0,0:04:14.86,0:04:17.23,Default,,0000,0000,0000,,hasta este túnel subterráneo.
+Dialogue: 0,0:04:17.82,0:04:21.78,Default,Er,0000,0000,0000,,En el nivel inferior,\Nel tamaño y la resistencia del túnel
+Dialogue: 0,0:04:21.78,0:04:25.49,Default,Er,0000,0000,0000,,permitirán inmovilizar al objetivo\Naunque se transforme.
+Dialogue: 0,0:04:26.28,0:04:28.96,Default,Er,0000,0000,0000,,En caso de que se transformara antes,
+Dialogue: 0,0:04:29.33,0:04:31.80,Default,Er,0000,0000,0000,,tendrás que encargarte tú, Eren.
+Dialogue: 0,0:04:32.54,0:04:33.75,Default,E,0000,0000,0000,,Sí, señor.
+Dialogue: 0,0:04:33.75,0:04:38.00,Default,E,0000,0000,0000,,Pero ¿estamos seguros\Nde que el objetivo está en Stohess?
+Dialogue: 0,0:04:38.38,0:04:41.26,Default,Er,0000,0000,0000,,Sí, es miembro de la Policía Militar.
+Dialogue: 0,0:04:41.71,0:04:43.09,Default,E,0000,0000,0000,,¿La Policía Militar?
+Dialogue: 0,0:04:43.09,0:04:44.96,Default,Er,0000,0000,0000,,Armin llegó a esa conclusión.
+Dialogue: 0,0:04:46.18,0:04:50.76,Default,Er,0000,0000,0000,,Cree que el objetivo asesinó\Na los dos titanes que apresamos.
+Dialogue: 0,0:04:51.88,0:04:55.69,Default,Er,0000,0000,0000,,Es muy posible que fuera parte\Nde la tropa de reclutas 104.
+Dialogue: 0,0:04:57.02,0:05:00.86,Default,E,0000,0000,0000,,Un momento, ¿la 104?
+Dialogue: 0,0:05:01.43,0:05:04.75,Default,Er,0000,0000,0000,,El nombre de la mujer que sospechamos\Nque es la titán hembra…
+Dialogue: 0,0:05:04.75,0:05:06.61,Default,E,0000,0000,0000,,¿Qué…?
+Dialogue: 0,0:05:12.91,0:05:15.68,Default,Er,0000,0000,0000,,…es Annie Leonhart.
+Dialogue: 0,0:05:26.59,0:05:28.54,Default,Ar,0000,0000,0000,,Oh, no.
+Dialogue: 0,0:05:35.24,0:05:37.20,Default,Ar,0000,0000,0000,,Maldita sea, el anillo…
+Dialogue: 0,0:05:37.55,0:05:40.58,Default,Ar,0000,0000,0000,,Sabía que le mentía desde el principio
+Dialogue: 0,0:05:40.92,0:05:43.20,Default,Ar,0000,0000,0000,,y que íbamos a emboscarla.
+Dialogue: 0,0:05:43.71,0:05:46.49,Default,Ar,0000,0000,0000,,Podría haberlo hecho de otro modo, y…
+Dialogue: 0,0:05:47.16,0:05:49.24,Default,Mi,0000,0000,0000,,Ya reflexionarás luego.
+Dialogue: 0,0:05:49.24,0:05:51.53,Default,Mi,0000,0000,0000,,¿Qué tenemos que hacer ahora?
+Dialogue: 0,0:05:53.26,0:05:56.73,Default,Ar,0000,0000,0000,,Reunirnos con el escuadrón tres\Ny salir a la superficie.
+Dialogue: 0,0:05:56.73,0:05:58.60,Default,Ar,0000,0000,0000,,Seguiremos el plan B.
+Dialogue: 0,0:05:58.60,0:06:01.25,Default,Ar,0000,0000,0000,,Nos enfrentaremos a Annie,\Na la titán hembra.
+Dialogue: 0,0:06:02.02,0:06:05.78,Default,Ar,0000,0000,0000,,Eren, tendrás que transformarte\Ny ayudarnos a capturarla.
+Dialogue: 0,0:06:06.49,0:06:07.70,Default,Ar,0000,0000,0000,,¿Puedes hacerlo?
+Dialogue: 0,0:06:07.70,0:06:08.66,Default,E,0000,0000,0000,,Sí.
+Dialogue: 0,0:06:09.24,0:06:10.52,Default,Guys,0000,0000,0000,,¡Oigan!
+Dialogue: 0,0:06:11.38,0:06:12.51,Default,Ar,0000,0000,0000,,¡El escuadrón tres!
+Dialogue: 0,0:06:12.87,0:06:15.02,Default,Guy,0000,0000,0000,,¿No lograron capturarla?
+Dialogue: 0,0:06:15.29,0:06:16.87,Default,Ar,0000,0000,0000,,¡No!
+Dialogue: 0,0:06:16.87,0:06:18.96,Default,Ar,0000,0000,0000,,¡Pasamos al plan B!
+Dialogue: 0,0:06:29.84,0:06:31.40,Default,Ar,0000,0000,0000,,¿Lo atravesó de un pisotón?
+Dialogue: 0,0:06:34.18,0:06:35.27,Default,E,0000,0000,0000,,¡Hay que ayudarlos!
+Dialogue: 0,0:06:35.27,0:06:37.08,Default,Mi,0000,0000,0000,,¡Eren, retrocede!
+Dialogue: 0,0:06:37.08,0:06:39.44,Default,E,0000,0000,0000,,¡Mikasa!
+Dialogue: 0,0:06:40.62,0:06:44.22,Default,E,0000,0000,0000,,¿Es que no le importa matar a Eren?
+Dialogue: 0,0:06:44.74,0:06:45.82,Default,Ar,0000,0000,0000,,Hizo una apuesta.
+Dialogue: 0,0:06:47.53,0:06:50.84,Default,Ar,0000,0000,0000,,Hizo el agujero\Napostando que Eren no moriría.
+Dialogue: 0,0:06:50.84,0:06:53.30,Default,Ar,0000,0000,0000,,Es una locura,\Npero la hace más peligrosa.
+Dialogue: 0,0:06:55.58,0:06:59.06,Default,Ar,0000,0000,0000,,Annie hará cualquier cosa\Npara llevarse a Eren.
+Dialogue: 0,0:07:04.00,0:07:05.38,Default,Ar,0000,0000,0000,,¿Qué hacemos?
+Dialogue: 0,0:07:05.38,0:07:07.01,Default,Ar,0000,0000,0000,,Selló la salida.
+Dialogue: 0,0:07:07.01,0:07:10.96,Default,Ar,0000,0000,0000,,Si salimos con el equipo\Nde maniobras, nos atacará.
+Dialogue: 0,0:07:11.44,0:07:12.45,Default,Ar,0000,0000,0000,,Pero…
+Dialogue: 0,0:07:16.72,0:07:20.53,Default,Ar,0000,0000,0000,,si nos quedamos aquí,\Nnos aplastará en cualquier momento.
+Dialogue: 0,0:07:21.69,0:07:23.40,Default,E,0000,0000,0000,,¡Yo me encargo!
+Dialogue: 0,0:07:23.40,0:07:26.23,Default,E,0000,0000,0000,,Como cuando bloqueé\Nel proyectil del cañón.
+Dialogue: 0,0:07:28.61,0:07:29.60,Default,E,0000,0000,0000,,¡Acérquense!
+Dialogue: 0,0:07:29.60,0:07:30.61,Default,,0000,0000,0000,,¡Oye!
+Dialogue: 0,0:07:30.61,0:07:31.70,Default,E,0000,0000,0000,,Allá voy.
+Dialogue: 0,0:07:31.70,0:07:32.95,Default,E,0000,0000,0000,,No se alejen.
+Dialogue: 0,0:07:44.42,0:07:45.75,Default,E,0000,0000,0000,,¿Otra vez?
+Dialogue: 0,0:07:46.11,0:07:47.86,Default,E,0000,0000,0000,,No…
+Dialogue: 0,0:07:51.13,0:07:52.93,Default,E,0000,0000,0000,,¿Tenía que ser ahora?
+Dialogue: 0,0:07:53.43,0:07:55.12,Default,E,0000,0000,0000,,¡Duele!
+Dialogue: 0,0:07:57.48,0:08:01.18,Default,Ar,0000,0000,0000,,No puedes transformarte\Nsin un objetivo claro, ¿no?
+Dialogue: 0,0:08:01.73,0:08:03.87,Default,Ar,0000,0000,0000,,Visualízalo de nuevo, con fuerza.
+Dialogue: 0,0:08:03.87,0:08:06.18,Default,E,0000,0000,0000,,¡Eso hago! Pero…
+Dialogue: 0,0:08:13.88,0:08:14.99,Default,Mi,0000,0000,0000,,En realidad…
+Dialogue: 0,0:08:16.66,0:08:20.32,Default,Mi,0000,0000,0000,,aún tienes reservas\Nsobre pelear contra Annie, ¿no?
+Dialogue: 0,0:08:23.12,0:08:24.10,Default,Ar,0000,0000,0000,,¿Eren?
+Dialogue: 0,0:08:25.10,0:08:27.80,Default,Mi,0000,0000,0000,,No me digas que a estas alturas
+Dialogue: 0,0:08:27.80,0:08:31.57,Default,,0000,0000,0000,,todavía crees que la titán hembra\Npodría no ser Annie.
+Dialogue: 0,0:08:33.66,0:08:36.78,Default,Mi,0000,0000,0000,,¿Qué viste hace un momento?
+Dialogue: 0,0:08:37.24,0:08:39.58,Default,Mi,0000,0000,0000,,Esa mujer mató a nuestros compañeros.
+Dialogue: 0,0:08:40.06,0:08:41.68,Default,Mi,0000,0000,0000,,¿Todavía dudas?
+Dialogue: 0,0:08:44.44,0:08:47.55,Default,E,0000,0000,0000,,¡Cállate! ¡Lo estoy intentando!
+Dialogue: 0,0:08:51.01,0:08:53.09,Default,E,0000,0000,0000,,¿Que Annie es la titán hembra?
+Dialogue: 0,0:08:53.76,0:08:55.09,Default,E,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:08:55.09,0:08:57.60,Default,E,0000,0000,0000,,¿Por qué piensas eso, Armin?
+Dialogue: 0,0:08:58.60,0:09:02.22,Default,Ar,0000,0000,0000,,La titán hembra sabía\Ncómo era Eren desde el principio.
+Dialogue: 0,0:09:02.74,0:09:06.58,Default,Ar,0000,0000,0000,,Y reaccionó cuando te llamé\N"el que está ansioso por morir".
+Dialogue: 0,0:09:06.58,0:09:09.02,Default,,0000,0000,0000,,Solo un recluta de la 104 lo haría.
+Dialogue: 0,0:09:09.60,0:09:11.09,Default,Ar,0000,0000,0000,,Pero el motivo principal
+Dialogue: 0,0:09:11.09,0:09:15.66,Default,Ar,0000,0000,0000,,es que creo que fue Annie\Nla que mató a Sawney y Bean.
+Dialogue: 0,0:09:17.44,0:09:19.68,Default,E,0000,0000,0000,,¿Cómo puedes saberlo?
+Dialogue: 0,0:09:19.68,0:09:23.64,Default,Ar,0000,0000,0000,,Para asesinarlos\Nse requería gran habilidad.
+Dialogue: 0,0:09:23.64,0:09:27.38,Default,Ar,0000,0000,0000,,Tuvo que usar el equipo de maniobras\Nal que está acostumbrada.
+Dialogue: 0,0:09:27.38,0:09:30.88,Default,E,0000,0000,0000,,Sí, por eso inspeccionaron\Ntodos nuestros equipos.
+Dialogue: 0,0:09:30.88,0:09:32.76,Default,E,0000,0000,0000,,No encontraron nada en el suyo.
+Dialogue: 0,0:09:32.76,0:09:36.09,Default,Ar,0000,0000,0000,,Annie mostró el equipo de Marco.
+Dialogue: 0,0:09:36.99,0:09:39.64,Default,Ar,0000,0000,0000,,Por eso evitó que la descubrieran.
+Dialogue: 0,0:09:42.08,0:09:43.73,Default,E,0000,0000,0000,,¿De qué hablas?
+Dialogue: 0,0:09:44.28,0:09:46.48,Default,E,0000,0000,0000,,¿Qué relación tiene Marco con esto?
+Dialogue: 0,0:09:47.40,0:09:48.73,Default,Ar,0000,0000,0000,,No lo sé.
+Dialogue: 0,0:09:49.50,0:09:51.17,Default,E,0000,0000,0000,,¿No te confundirías?
+Dialogue: 0,0:09:51.17,0:09:53.67,Default,Ar,0000,0000,0000,,No, sé lo que vi.
+Dialogue: 0,0:09:53.67,0:09:58.24,Default,L,0000,0000,0000,,Lo captamos, mocoso.\N¿Tienes más pruebas?
+Dialogue: 0,0:09:58.72,0:09:59.90,Default,Ar,0000,0000,0000,,No.
+Dialogue: 0,0:10:00.30,0:10:03.77,Default,Mi,0000,0000,0000,,Yo opino que su cara\Nse parece a la de la titán hembra.
+Dialogue: 0,0:10:03.77,0:10:05.75,Default,,0000,0000,0000,,Pero ¿qué estás diciendo?
+Dialogue: 0,0:10:06.16,0:10:07.68,Default,E,0000,0000,0000,,Eso no signifi…
+Dialogue: 0,0:10:07.68,0:10:10.30,Default,L,0000,0000,0000,,Es decir,\Nlo harán aunque no tengan pruebas.
+Dialogue: 0,0:10:10.63,0:10:13.38,Default,E,0000,0000,0000,,¿Que no tienen pruebas?
+Dialogue: 0,0:10:13.98,0:10:15.57,Default,E,0000,0000,0000,,¿Y por qué hacerlo?
+Dialogue: 0,0:10:15.57,0:10:17.53,Default,E,0000,0000,0000,,¿Y si no es ella?
+Dialogue: 0,0:10:17.53,0:10:20.91,Default,Mi,0000,0000,0000,,Pues se librará de toda sospecha.
+Dialogue: 0,0:10:21.83,0:10:24.68,Default,Ar,0000,0000,0000,,Si ese es el caso, lo lamento por Annie.
+Dialogue: 0,0:10:24.68,0:10:28.00,Default,Ar,0000,0000,0000,,Pero si no hacemos nada,
+Dialogue: 0,0:10:28.00,0:10:31.02,Default,Ar,0000,0000,0000,,los de la capital te sacrificarán.
+Dialogue: 0,0:10:31.68,0:10:34.40,Default,E,0000,0000,0000,,Es una locura dudar de Annie.
+Dialogue: 0,0:10:34.69,0:10:37.06,Default,Mi,0000,0000,0000,,Eren, ahora que oíste que es ella,
+Dialogue: 0,0:10:37.06,0:10:38.74,Default,Mi,0000,0000,0000,,¿no se te ocurre nada?
+Dialogue: 0,0:10:47.87,0:10:50.71,Default,Mi,0000,0000,0000,,Tú combatiste contra ella\Ncuerpo a cuerpo.
+Dialogue: 0,0:10:51.13,0:10:54.75,Default,Mi,0000,0000,0000,,¿No viste algún movimiento\Ncaracterístico de Annie?
+Dialogue: 0,0:11:12.56,0:11:14.16,Default,Mi,0000,0000,0000,,Ya lo sabes, ¿no?
+Dialogue: 0,0:11:16.65,0:11:20.23,Default,Mi,0000,0000,0000,,Sabes que la titán hembra es Annie.
+Dialogue: 0,0:11:24.24,0:11:27.22,Default,Mi,0000,0000,0000,,Entonces, tenemos que pelear, ¿no crees?
+Dialogue: 0,0:11:28.58,0:11:33.46,Default,Mi,0000,0000,0000,,¿Acaso sientes algo por ella\Nque se interponga?
+Dialogue: 0,0:11:39.80,0:11:41.09,Default,Ar,0000,0000,0000,,¡Tengo un plan!
+Dialogue: 0,0:11:42.48,0:11:46.35,Default,Ar,0000,0000,0000,,Mikasa y yo saldremos a la vez\Npor ese agujero y por donde entramos.
+Dialogue: 0,0:11:46.66,0:11:49.10,Default,Ar,0000,0000,0000,,Annie tendrá que lidiar\Ncon uno de los dos.
+Dialogue: 0,0:11:49.65,0:11:52.60,Default,Ar,0000,0000,0000,,Eren, tú escapa por la salida\Ndonde no esté Annie.
+Dialogue: 0,0:11:53.08,0:11:54.52,Default,E,0000,0000,0000,,¡Espera!
+Dialogue: 0,0:11:54.52,0:11:57.28,Default,E,0000,0000,0000,,¡Entonces, uno de ustedes morirá!
+Dialogue: 0,0:11:57.28,0:11:59.40,Default,Ar,0000,0000,0000,,Si nos quedamos, moriremos los tres.
+Dialogue: 0,0:12:00.30,0:12:02.17,Default,Ar,0000,0000,0000,,¡Mikasa, prepárate!
+Dialogue: 0,0:12:02.17,0:12:03.92,Default,Mi,0000,0000,0000,,Yo iré por el frente.
+Dialogue: 0,0:12:05.98,0:12:07.42,Default,E,0000,0000,0000,,¡Mikasa!
+Dialogue: 0,0:12:07.42,0:12:08.49,Default,E,0000,0000,0000,,¡Armin!
+Dialogue: 0,0:12:09.55,0:12:10.79,Default,E,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:12:11.42,0:12:13.87,Default,E,0000,0000,0000,,¿Por qué pueden enfrentarse a ella?
+Dialogue: 0,0:12:14.29,0:12:15.58,Default,E,0000,0000,0000,,¿Por qué?
+Dialogue: 0,0:12:20.09,0:12:21.38,Default,Mi,0000,0000,0000,,No tenemos opción.
+Dialogue: 0,0:12:22.67,0:12:24.77,Default,Mi,0000,0000,0000,,El mundo es cruel.
+Dialogue: 0,0:12:43.99,0:12:48.99,Sign_Default,,0000,0000,0000,,Información pública actualmente
+Dialogue: 0,0:12:43.99,0:12:48.99,Sign_Default,Mi,0000,0000,0000,,{\an6\fs16}Muralla Sina (1)\N\N\NLa Muralla rodea la capital, de 200,000 habitantes.\NLa residencia requiere un permiso especial\Ny está limitada fundamentalmente a la familia real.
+Dialogue: 0,0:12:48.99,0:12:54.00,Sign_Default,,0000,0000,0000,,Información pública actualmente
+Dialogue: 0,0:12:48.99,0:12:54.00,Sign_Default2,Mi,0000,0000,0000,,{\an4\fs16}Muralla Sina (2)\N\N\NTambién se puede obtener permiso de residencia\Nmediante méritos en las Tropas Estacionarias o la Policía Militar,\Nsiendo la única forma que tienen los pobres de obtener refugio.
+Dialogue: 0,0:12:58.61,0:12:59.66,Default,Ar,0000,0000,0000,,¡Eren!
+Dialogue: 0,0:13:15.67,0:13:18.84,Default,Mi,0000,0000,0000,,¡Annie, jamás te entregaré a Eren!
+Dialogue: 0,0:13:20.64,0:13:21.65,Default,Ar,0000,0000,0000,,¡Eren!
+Dialogue: 0,0:13:23.23,0:13:25.68,Default,Ar,0000,0000,0000,,Eren, ahora te saco de ahí.
+Dialogue: 0,0:13:29.37,0:13:31.00,Default,Ar,0000,0000,0000,,¡Abre los ojos!
+Dialogue: 0,0:13:56.02,0:13:57.94,Default,Guys,0000,0000,0000,,¡No dejen escapar a la titán hembra!
+Dialogue: 0,0:13:58.26,0:14:01.02,Default,Guys,0000,0000,0000,,¡No dejaremos que salga de aquí!
+Dialogue: 0,0:14:06.85,0:14:08.11,Default,Ny,0000,0000,0000,,¿Qué pasó?
+Dialogue: 0,0:14:08.66,0:14:12.00,Default,Ny,0000,0000,0000,,¡Equipo de escolta,\Nvayan a ver qué sucede!
+Dialogue: 0,0:14:12.00,0:14:13.08,Default,Mar,0000,0000,0000,,¡Recibido!
+Dialogue: 0,0:14:14.83,0:14:16.63,Default,Ny,0000,0000,0000,,Aquí pasa algo raro.
+Dialogue: 0,0:14:16.63,0:14:19.27,Default,Ny,0000,0000,0000,,Esa explosión…
+Dialogue: 0,0:14:19.27,0:14:20.33,Default,Er,0000,0000,0000,,Nile.
+Dialogue: 0,0:14:20.86,0:14:22.80,Default,Er,0000,0000,0000,,Despliega a todos tus hombres.
+Dialogue: 0,0:14:23.14,0:14:25.42,Default,Er,0000,0000,0000,,Hemos de asumir que apareció un titán.
+Dialogue: 0,0:14:25.42,0:14:27.09,Default,Ny,0000,0000,0000,,¿Qué estás diciendo?
+Dialogue: 0,0:14:27.36,0:14:29.26,Default,Ny,0000,0000,0000,,Estamos en la Muralla Sina.
+Dialogue: 0,0:14:29.26,0:14:31.85,Default,Ny,0000,0000,0000,,Es imposible que haya un titán aquí.
+Dialogue: 0,0:14:32.98,0:14:34.81,Default,Guy,0000,0000,0000,,¡Ato! ¡No te muevas, Jaeger!
+Dialogue: 0,0:14:34.81,0:14:37.48,Default,J,0000,0000,0000,,¡Estoy harto de este disfraz!
+Dialogue: 0,0:14:38.85,0:14:41.98,Default,J,0000,0000,0000,,¡No vuelvas a llamarme así, idiota!
+Dialogue: 0,0:14:42.69,0:14:44.82,Default,J,0000,0000,0000,,Comandante, yo también voy.
+Dialogue: 0,0:14:44.82,0:14:46.90,Default,Er,0000,0000,0000,,El escuadrón 4 te dará tu equipo.
+Dialogue: 0,0:14:46.90,0:14:48.07,Default,J,0000,0000,0000,,¡Recibido!
+Dialogue: 0,0:14:48.07,0:14:50.03,Default,L,0000,0000,0000,,Es bueno que tengas tanta energía,
+Dialogue: 0,0:14:50.03,0:14:52.10,Default,L,0000,0000,0000,,pero recuerda mantenerte con vida.
+Dialogue: 0,0:14:52.10,0:14:53.12,Default,J,0000,0000,0000,,Sí, señor.
+Dialogue: 0,0:14:55.94,0:14:58.00,Default,Ny,0000,0000,0000,,¿Qué significa esto, Erwin?
+Dialogue: 0,0:14:58.00,0:14:59.40,Default,Guy,0000,0000,0000,,¡Aquí tiene, comandante!
+Dialogue: 0,0:15:01.74,0:15:02.66,Default,Er,0000,0000,0000,,Buen trabajo.
+Dialogue: 0,0:15:02.66,0:15:03.56,Default,,0000,0000,0000,,Gracias, señor.
+Dialogue: 0,0:15:05.54,0:15:06.76,Default,Ny,0000,0000,0000,,¡Erwin!
+Dialogue: 0,0:15:07.86,0:15:10.32,Default,Er,0000,0000,0000,,Que me siga todo el que pueda moverse.
+Dialogue: 0,0:15:10.32,0:15:12.54,Default,Er,0000,0000,0000,,Nos reuniremos\Ncon los equipos de captura.
+Dialogue: 0,0:15:13.92,0:15:15.76,Default,Ny,0000,0000,0000,,¡Alto, Erwin!
+Dialogue: 0,0:15:18.36,0:15:22.77,Default,Ny,0000,0000,0000,,Tus acciones claramente representan\Nuna traición a la corona.
+Dialogue: 0,0:15:23.42,0:15:28.11,Default,L,0000,0000,0000,,Nile, ¿acaso tienes\Ntan poco cerebro como barba?
+Dialogue: 0,0:15:28.78,0:15:31.61,Default,L,0000,0000,0000,,Parece que no entiendes\Nlo que está pasando.
+Dialogue: 0,0:15:32.02,0:15:34.16,Default,Ny,0000,0000,0000,,¡Quítate el equipo, Erwin!
+Dialogue: 0,0:15:36.66,0:15:38.40,Default,Citizens,0000,0000,0000,,¡Un titán! ¡Hay un titán!
+Dialogue: 0,0:15:38.40,0:15:39.53,Default,Citizens,0000,0000,0000,,¿Qué hace aquí?
+Dialogue: 0,0:15:39.53,0:15:40.66,Default,Citizens,0000,0000,0000,,¡Corran!
+Dialogue: 0,0:15:41.82,0:15:44.08,Default,Military Police,0000,0000,0000,,Eso es un titán, ¿verdad?
+Dialogue: 0,0:15:44.41,0:15:46.00,Default,Military Police,0000,0000,0000,,Sí, ¿qué hace aquí?
+Dialogue: 0,0:15:46.00,0:15:47.01,Default,J,0000,0000,0000,,¡Apártense!
+Dialogue: 0,0:15:49.70,0:15:52.05,Default,J,0000,0000,0000,,Y están tan tranquilos.
+Dialogue: 0,0:15:52.74,0:15:56.06,Default,J,0000,0000,0000,,Yo podría estar con ellos ahora.
+Dialogue: 0,0:15:56.36,0:15:58.91,Default,J,0000,0000,0000,,Pero mírame.
+Dialogue: 0,0:15:58.91,0:16:00.02,Default,,0000,0000,0000,,¡Maldita sea!
+Dialogue: 0,0:16:02.00,0:16:03.42,Default,Soldiers,0000,0000,0000,,¡No intenten matarlo!
+Dialogue: 0,0:16:03.42,0:16:05.40,Default,Soldiers,0000,0000,0000,,¡Basta con frenarlo!
+Dialogue: 0,0:16:16.94,0:16:20.33,Default,Soldiers,0000,0000,0000,,Es inútil, sabe cómo funciona\Nel equipo de maniobras.
+Dialogue: 0,0:16:24.29,0:16:27.54,Default,Mi,0000,0000,0000,,¡No te lo pondré fácil!
+Dialogue: 0,0:16:35.08,0:16:36.09,Default,Ar,0000,0000,0000,,¡Eren!
+Dialogue: 0,0:16:36.09,0:16:37.86,Default,Ar,0000,0000,0000,,¡Contesta, Eren!
+Dialogue: 0,0:16:38.35,0:16:40.10,Default,J,0000,0000,0000,,¿Qué hacen?
+Dialogue: 0,0:16:40.10,0:16:42.10,Default,Ar,0000,0000,0000,,¡Jean! ¡Eren quedó atrapado!
+Dialogue: 0,0:16:42.10,0:16:45.10,Default,J,0000,0000,0000,,El plan era que se convirtiera en titán.
+Dialogue: 0,0:16:45.77,0:16:47.17,Default,Ar,0000,0000,0000,,No pudo.
+Dialogue: 0,0:16:47.17,0:16:50.98,Default,Ar,0000,0000,0000,,Creo que el hecho\Nde que la titán sea Annie lo frena.
+Dialogue: 0,0:16:50.98,0:16:51.99,Default,J,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:16:52.77,0:16:54.78,Default,Ar,0000,0000,0000,,¡Tenemos que sacarlo de aquí!
+Dialogue: 0,0:16:54.78,0:16:56.74,Default,Ar,0000,0000,0000,,¡Ayúdame, Jean!
+Dialogue: 0,0:16:57.73,0:16:59.24,Default,J,0000,0000,0000,,¿No pudo transformarse?
+Dialogue: 0,0:17:01.46,0:17:04.08,Default,J,0000,0000,0000,,¿Qué problema tienes, Eren?
+Dialogue: 0,0:17:04.08,0:17:07.04,Default,J,0000,0000,0000,,¡Te dije que más te valía hacerlo bien!
+Dialogue: 0,0:17:07.04,0:17:08.54,Default,J,0000,0000,0000,,¿Así nos pagas
+Dialogue: 0,0:17:08.54,0:17:14.59,Default,J,0000,0000,0000,,que te confiemos nuestras vidas\Ny las de toda la humanidad?
+Dialogue: 0,0:17:15.46,0:17:18.14,Default,J,0000,0000,0000,,Marco… Marco…
+Dialogue: 0,0:17:18.14,0:17:19.43,Default,J,0000,0000,0000,,Maldición…
+Dialogue: 0,0:17:29.43,0:17:30.48,Default,Ar,0000,0000,0000,,Eren…
+Dialogue: 0,0:17:30.98,0:17:34.31,Default,J,0000,0000,0000,,Es inútil.\NDebemos encargarnos de ella primero.
+Dialogue: 0,0:17:38.10,0:17:42.60,Default,Ar,0000,0000,0000,,Eren, una vez le dije a Jean…
+Dialogue: 0,0:17:43.47,0:17:48.45,Default,Ar,0000,0000,0000,,que alguien que no esté dispuesto\Na sacrificar no cambiará nada.
+Dialogue: 0,0:17:49.57,0:17:52.30,Default,Ar,0000,0000,0000,,Que para enfrentarse a unos monstruos,
+Dialogue: 0,0:17:52.30,0:17:54.34,Default,,0000,0000,0000,,debes despojarte de tu humanidad.
+Dialogue: 0,0:17:54.72,0:17:57.34,Default,Ar,0000,0000,0000,,Annie es capaz de hacerlo.
+Dialogue: 0,0:17:58.28,0:18:00.48,Default,Ar,0000,0000,0000,,No sé con qué motivo,
+Dialogue: 0,0:18:00.96,0:18:04.55,Default,Ar,0000,0000,0000,,pero ganará quien lo haga.
+Dialogue: 0,0:18:18.10,0:18:19.16,Default,Ar,0000,0000,0000,,¡Annie!
+Dialogue: 0,0:18:20.18,0:18:22.03,Default,Ar,0000,0000,0000,,¡Si no me matas esta vez,
+Dialogue: 0,0:18:22.55,0:18:25.91,Default,Ar,0000,0000,0000,,ya no podrás decir\Nque tu apuesta empieza ahora!
+Dialogue: 0,0:18:31.74,0:18:33.00,Default,J,0000,0000,0000,,¡Por aquí, Armin!
+Dialogue: 0,0:18:33.00,0:18:34.30,Default,Ar,0000,0000,0000,,¡Recibido!
+Dialogue: 0,0:18:44.80,0:18:45.93,Default,Han,0000,0000,0000,,Ya viene…
+Dialogue: 0,0:18:45.93,0:18:47.02,Default,Han,0000,0000,0000,,{\an8}Ya viene.
+Dialogue: 0,0:18:45.93,0:18:50.45,Default,Mo,0000,0000,0000,,Líder de escuadrón,\Nsu mirada está desenfocada.
+Dialogue: 0,0:19:21.38,0:19:23.00,Default,Mo,0000,0000,0000,,¡Bien!
+Dialogue: 0,0:19:23.00,0:19:27.18,Default,Mo,0000,0000,0000,,Pensé que no habría\Nque recurrir al plan C,
+Dialogue: 0,0:19:27.46,0:19:30.26,Default,Mo,0000,0000,0000,,pero el comandante Erwin\Nsabe lo que hace.
+Dialogue: 0,0:19:32.60,0:19:33.98,Default,Mo,0000,0000,0000,,Veamos…
+Dialogue: 0,0:19:38.43,0:19:41.61,Default,,0000,0000,0000,,Sé buena chica y no te muevas.
+Dialogue: 0,0:19:45.42,0:19:51.06,Default,Mo,0000,0000,0000,,Aquí no podrás llamar a otros titanes\Npara que te devoren.
+Dialogue: 0,0:19:53.60,0:19:55.07,Default,Mo,0000,0000,0000,,Pero tranquila.
+Dialogue: 0,0:19:56.04,0:19:58.71,Default,Mo,0000,0000,0000,,Yo te devoraré en su lugar.
+Dialogue: 0,0:19:59.37,0:20:02.76,Default,Mo,0000,0000,0000,,Devoraré toda la información que me des.
+Dialogue: 0,0:20:08.40,0:20:09.72,Default,Mi,0000,0000,0000,,¿Se liberó?
+Dialogue: 0,0:20:10.51,0:20:12.56,Default,H,0000,0000,0000,,Teníamos muy pocas trampas.
+Dialogue: 0,0:20:13.52,0:20:15.19,Default,H,0000,0000,0000,,¡Que no escape! ¡Tras ella!
+Dialogue: 0,0:20:21.70,0:20:24.44,Default - italics,Ar,0000,0000,0000,,Alguien que no esté\Ndispuesto a sacrificar
+Dialogue: 0,0:20:25.87,0:20:28.28,Default - italics,Ar,0000,0000,0000,,no cambiará nada.
+Dialogue: 0,0:20:29.86,0:20:31.46,Default - italics,E,0000,0000,0000,,Lo sé.
+Dialogue: 0,0:20:31.46,0:20:32.87,Default - italics,E,0000,0000,0000,,Por eso fallé.
+Dialogue: 0,0:20:33.94,0:20:38.25,Default - italics,,0000,0000,0000,,Confié en mis compañeros\Ny nuestros lazos y fracasé.
+Dialogue: 0,0:20:39.88,0:20:41.26,Default - italics,E,0000,0000,0000,,Recuérdalo.
+Dialogue: 0,0:20:54.12,0:20:57.20,Default - italics,E,0000,0000,0000,,Los aniquilaré.
+Dialogue: 0,0:20:57.51,0:20:58.63,Default - italics,E,0000,0000,0000,,No…
+Dialogue: 0,0:20:59.09,0:21:00.69,Default - italics,E,0000,0000,0000,,¡Los mataré!
+Dialogue: 0,0:21:04.78,0:21:08.19,Default - italics,E,0000,0000,0000,,No tengo tiempo para pensar\Nen si es lo correcto.
+Dialogue: 0,0:21:08.84,0:21:10.25,Default - italics,E,0000,0000,0000,,Muévete.
+Dialogue: 0,0:21:10.87,0:21:13.19,Default - italics,E,0000,0000,0000,,¡No intentes no mancharte las manos!
+Dialogue: 0,0:21:13.99,0:21:15.37,Default - italics,E,0000,0000,0000,,Exacto.
+Dialogue: 0,0:21:15.64,0:21:16.54,Default,Ar,0000,0000,0000,,¡Mikasa!
+Dialogue: 0,0:21:17.41,0:21:19.76,Default - italics,E,0000,0000,0000,,¡El mundo es cruel!
+Dialogue: 0,0:21:29.40,0:21:30.99,Default,Ny,0000,0000,0000,,¿Ahora qué?
+Dialogue: 0,0:22:06.92,0:22:07.79,Default,Ar,0000,0000,0000,,¡Eren!
+Dialogue: 0,0:22:09.58,0:22:10.85,Default - italics,Mi,0000,0000,0000,,Eren…
+Dialogue: 0,0:22:18.97,0:22:21.98,Sign_Default3,,0000,0000,0000,,Continuará
+Dialogue: 0,0:23:51.95,0:23:53.32,Sign_Default,,0000,0000,0000,,Avance
+Dialogue: 0,0:23:53.07,0:23:56.99,Default,,0000,0000,0000,,"Exterminaré hasta el último\Nde los titanes".
+Dialogue: 0,0:23:58.00,0:24:03.13,Default,,0000,0000,0000,,La ira que hizo jurar eso al joven Eren\Nlo impulsa de nuevo,
+Dialogue: 0,0:24:03.78,0:24:06.59,Default,,0000,0000,0000,,esta vez a destruirlo todo.
+Dialogue: 0,0:24:04.96,0:24:07.66,Title,,0000,0000,0000,,La muralla\NRedada en el distrito Trost (3)
+

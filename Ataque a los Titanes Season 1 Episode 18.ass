@@ -1,0 +1,340 @@
+[Script Info]
+Title: Español
+Original Script: crunchyroll_la  [http://www.crunchyroll.com/user/crunchyroll_la]
+Original Translation: 
+Original Editing: 
+Original Timing: 
+Synch Point: 
+Script Updated By: 
+Update Details: 
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 640
+PlayResY: 360
+Timer: 0.0000
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,Strikeout,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Default - Margin,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,0040,0040,0008,0
+Style: Default - italics,Trebuchet MS,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,100,100,0,0,1,2,0,2,0040,0040,0018,0
+Style: Title,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0040,0040,0018,0
+Style: Eyecatch1,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,1,0040,0040,0018,0
+Style: Eyecatch2,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,3,0040,0040,0018,0
+Style: Eyecatch1A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0020,0018,0
+Style: Eyecatch2A,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0020,0040,0013,0
+Style: SignA,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0040,0040,0186,0
+Style: SignB,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0040,0040,0116,0
+Style: SignC,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,9,0040,0060,0175,0
+Style: SignD,Times New Roman,20,&H00E8F0E9,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,7,0020,0040,0210,0
+Style: Sign_Default,Times New Roman,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,0
+Style: Sign_Default2,Times New Roman,22,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,-1,0,0,0,100,100,0,0,1,2,0,8,0010,0010,0020,0
+Style: Sign_Default3,Times New Roman,24,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,3,0010,0070,0070,0
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:00:03.20,0:00:06.55,Default,Er,0000,0000,0000,,¡Empieza la 57.ª expedición\Nmás allá las murallas!
+Dialogue: 0,0:00:07.90,0:00:09.65,Default,,0000,0000,0000,,¡Adelante!
+Dialogue: 0,0:00:14.29,0:00:17.99,Default,,0000,0000,0000,,Creemos que en el sótano de su casa,\Nen Shiganshina,
+Dialogue: 0,0:00:17.99,0:00:20.77,Default,,0000,0000,0000,,hay información\Nque incluso él desconoce.
+Dialogue: 0,0:00:22.12,0:00:23.79,Default,,0000,0000,0000,,Nos dirigiremos ahí.
+Dialogue: 0,0:00:24.83,0:00:26.96,Default,Nes,0000,0000,0000,,Los nuevos reclutas estarán aquí,
+Dialogue: 0,0:00:26.96,0:00:30.88,Default,Nes,0000,0000,0000,,entre la escolta de los carros\Ny el equipo de apoyo de reconocimiento.
+Dialogue: 0,0:00:30.88,0:00:34.55,Default,Nes,0000,0000,0000,,Llevarán a los caballos de repuesto\Ny transmitirán mensajes.
+Dialogue: 0,0:00:34.55,0:00:39.76,Default,G,0000,0000,0000,,Nuestro equipo estará aquí, en la parte\Ntrasera de la columna central.
+Dialogue: 0,0:00:39.76,0:00:41.93,Default,O,0000,0000,0000,,Es la posición más segura\Nde la formación.
+Dialogue: 0,0:00:40.69,0:00:41.69,SignD,,0000,0000,0000,,{\fad(180,0)}Fila 5-Centro: En espera
+Dialogue: 0,0:00:42.38,0:00:45.86,Default,O,0000,0000,0000,,Estamos mejor protegidos\Nque los carros de suministros.
+Dialogue: 0,0:00:57.74,0:01:00.65,Default,Ar,0000,0000,0000,,Eso no es un excéntrico.\N¡Es inteligente!
+Dialogue: 0,0:01:01.45,0:01:04.29,Default,Ar,0000,0000,0000,,Como el titán acorazado,\Nel colosal o Eren.
+Dialogue: 0,0:01:04.59,0:01:06.96,Default,Ar,0000,0000,0000,,¡Es un humano en el cuerpo de un titán!
+Dialogue: 0,0:01:10.15,0:01:12.55,Default - italics,J,0000,0000,0000,,¡Sus movimientos son mucho más precisos!
+Dialogue: 0,0:01:12.90,0:01:14.86,Default - italics,J,0000,0000,0000,,Maldita sea…
+Dialogue: 0,0:01:14.86,0:01:16.38,Default - italics,J,0000,0000,0000,,¡La subestimé!
+Dialogue: 0,0:01:18.73,0:01:20.26,Default - italics,J,0000,0000,0000,,Protegió su nuca.
+Dialogue: 0,0:01:20.26,0:01:22.51,Default - italics,J,0000,0000,0000,,Maldita sea, no puedo escapar.
+Dialogue: 0,0:01:22.51,0:01:26.25,Default,Ar,0000,0000,0000,,¡Jean, venga al que estaba\Nansioso por morir!
+Dialogue: 0,0:01:27.84,0:01:29.40,Default - italics,J,0000,0000,0000,,¿Se detuvo?
+Dialogue: 0,0:01:29.86,0:01:32.66,Default,Ar,0000,0000,0000,,¡Ese es el titán que lo mató!
+Dialogue: 0,0:01:32.66,0:01:37.96,Default,Ar,0000,0000,0000,,Su ansia de morir hizo que lo matara\Nen el ala derecha. ¡Véngalo!
+Dialogue: 0,0:01:52.75,0:01:54.63,Default,R,0000,0000,0000,,¡Ya ganamos bastante tiempo!
+Dialogue: 0,0:01:55.16,0:01:57.09,Default,R,0000,0000,0000,,¡Alejémonos de ella!
+Dialogue: 0,0:01:58.76,0:02:00.73,Default - italics,Ar,0000,0000,0000,,No… ¿Por qué?
+Dialogue: 0,0:02:01.31,0:02:04.46,Default - italics,Ar,0000,0000,0000,,¿Se dirige adonde está Eren?
+Dialogue: 0,0:03:36.98,0:03:41.99,Title,Ar,0000,0000,0000,,Bosque de árboles gigantes\N57.ª expedición más allá de las murallas (2)
+Dialogue: 0,0:03:49.37,0:03:52.21,Default,R,0000,0000,0000,,¿Cómo quedó tu equipo de maniobras?
+Dialogue: 0,0:03:52.97,0:03:54.17,Default,Ar,0000,0000,0000,,Está bien.
+Dialogue: 0,0:03:54.17,0:03:57.96,Default,Ar,0000,0000,0000,,El cierre se soltó como siempre,\Nasí que no se rompió.
+Dialogue: 0,0:03:58.38,0:04:00.70,Default,R,0000,0000,0000,,Ya veo, me alegra oírlo.
+Dialogue: 0,0:04:01.09,0:04:02.88,Default,R,0000,0000,0000,,Pero ¿qué hacemos?
+Dialogue: 0,0:04:02.88,0:04:04.72,Default,R,0000,0000,0000,,Solo tenemos un caballo.
+Dialogue: 0,0:04:05.90,0:04:09.39,Default,R,0000,0000,0000,,Si regresa el de Jean,\Npodremos movernos los tres…
+Dialogue: 0,0:04:10.48,0:04:12.27,Default - italics,J,0000,0000,0000,,Maldita sea, ¿por qué?
+Dialogue: 0,0:04:12.84,0:04:17.78,Default - italics,J,0000,0000,0000,,¿Por qué mi caballo no regresa\Ny el de Reiner sí?
+Dialogue: 0,0:04:21.40,0:04:25.29,Default - italics,J,0000,0000,0000,,No podemos permanecer aquí\Npor más tiempo.
+Dialogue: 0,0:04:27.32,0:04:30.62,Default - italics,J,0000,0000,0000,,En el peor caso,\Nalguien tendrá que quedarse.
+Dialogue: 0,0:04:31.12,0:04:34.21,Default - italics,J,0000,0000,0000,,Pero ¿cómo decidimos quién?
+Dialogue: 0,0:04:34.96,0:04:36.42,Default - italics,J,0000,0000,0000,,¿Armin, que está herido?
+Dialogue: 0,0:04:37.42,0:04:40.46,Default - italics,J,0000,0000,0000,,¿Reiner, qué pesa mucho\Npara montar con otra persona?
+Dialogue: 0,0:04:41.22,0:04:44.74,Default - italics,J,0000,0000,0000,,¿O acaso yo debería ir\Na buscar mi caballo a pie?
+Dialogue: 0,0:04:47.09,0:04:48.18,Default,J,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:04:48.18,0:04:51.22,Default - italics,J,0000,0000,0000,,¿Por qué tengo que preocuparme por esto?
+Dialogue: 0,0:04:51.62,0:04:54.22,Default - italics,J,0000,0000,0000,,En la pelea sobrevivimos los tres.
+Dialogue: 0,0:04:54.22,0:04:56.56,Default - italics,J,0000,0000,0000,,Esto no es justo.
+Dialogue: 0,0:05:13.52,0:05:14.58,Default,R,0000,0000,0000,,Armin.
+Dialogue: 0,0:05:16.14,0:05:17.04,Default,R,0000,0000,0000,,¡Armin!
+Dialogue: 0,0:05:19.00,0:05:21.42,Default,R,0000,0000,0000,,¿Aún estás aturdido?
+Dialogue: 0,0:05:21.95,0:05:25.34,Default,Ar,0000,0000,0000,,Sí, estoy un poco mareado.
+Dialogue: 0,0:05:25.34,0:05:28.97,Default,R,0000,0000,0000,,Ya veo, pero tenemos\Nque decidirnos pronto.
+Dialogue: 0,0:05:29.38,0:05:33.35,Default,R,0000,0000,0000,,Es una decisión difícil,\Npero alguien tendrá que quedarse.
+Dialogue: 0,0:05:36.45,0:05:37.44,Default,Ar,0000,0000,0000,,¡Un momento!
+Dialogue: 0,0:05:38.28,0:05:40.80,Default,Ar,0000,0000,0000,,Primero disparemos una señal de humo.
+Dialogue: 0,0:05:40.80,0:05:42.90,Default,Ar,0000,0000,0000,,Si continuaron recto,
+Dialogue: 0,0:05:42.90,0:05:45.74,Default,Ar,0000,0000,0000,,la fila 4-3 debería estar cerca.
+Dialogue: 0,0:05:51.28,0:05:53.95,Default,J,0000,0000,0000,,Es la señal de emergencia.
+Dialogue: 0,0:05:53.95,0:05:57.19,Default,J,0000,0000,0000,,Aunque dudo que comprendan\Nlo que nos pasó.
+Dialogue: 0,0:05:57.58,0:05:59.83,Default,R,0000,0000,0000,,Esperaremos otros tres minutos.
+Dialogue: 0,0:06:00.36,0:06:02.60,Default,R,0000,0000,0000,,En ese tiempo hay que decidir quién…
+Dialogue: 0,0:06:02.60,0:06:03.75,Default,R,0000,0000,0000,,Me quedaré yo.
+Dialogue: 0,0:06:04.84,0:06:09.61,Default,R,0000,0000,0000,,Pero informen de algo en mi lugar.
+Dialogue: 0,0:06:10.08,0:06:12.18,Default,R,0000,0000,0000,,Aunque solo al comandante Erwin.
+Dialogue: 0,0:06:12.18,0:06:16.10,Default,J,0000,0000,0000,,No, Armin. Díselo tú mismo.
+Dialogue: 0,0:06:16.86,0:06:18.70,Default,J,0000,0000,0000,,Viene alguien.
+Dialogue: 0,0:06:18.70,0:06:21.32,Default,J,0000,0000,0000,,¡Y con dos caballos!
+Dialogue: 0,0:06:23.86,0:06:25.15,Default,J,0000,0000,0000,,Esa es…
+Dialogue: 0,0:06:27.65,0:06:28.82,Default,J,0000,0000,0000,,¡Christa!
+Dialogue: 0,0:06:29.45,0:06:31.66,Default,C,0000,0000,0000,,¿Están todos bien?
+Dialogue: 0,0:06:35.45,0:06:37.29,Default,J,0000,0000,0000,,¡Es mi caballo!
+Dialogue: 0,0:06:37.91,0:06:40.70,Default,J,0000,0000,0000,,Tranquilo, tranquilo, Buchwald.
+Dialogue: 0,0:06:41.04,0:06:46.59,Default,C,0000,0000,0000,,Vino corriendo hacia mí, aterrado.\N¿Se enfrentaron a un titán?
+Dialogue: 0,0:06:47.46,0:06:50.30,Default,C,0000,0000,0000,,Te lastimaste, Armin.
+Dialogue: 0,0:06:50.30,0:06:51.51,Default,C,0000,0000,0000,,¿Estás bien?
+Dialogue: 0,0:06:51.51,0:06:52.85,Default,AR,0000,0000,0000,,Sí, más o menos.
+Dialogue: 0,0:06:54.63,0:06:57.43,Default,R,0000,0000,0000,,Me sorprende que vinieras\Nal ver el humo.
+Dialogue: 0,0:06:57.94,0:07:01.35,Default,C,0000,0000,0000,,Estaba cerca,\Ny tenía el caballo de Jean.
+Dialogue: 0,0:07:01.69,0:07:03.78,Default,R,0000,0000,0000,,Los caballos también te adoran.
+Dialogue: 0,0:07:03.78,0:07:05.86,Default,R,0000,0000,0000,,Tienes un carisma peculiar.
+Dialogue: 0,0:07:06.21,0:07:07.36,Default,C,0000,0000,0000,,Nos salvaste.
+Dialogue: 0,0:07:08.65,0:07:10.15,Default,C,0000,0000,0000,,Me alegro.
+Dialogue: 0,0:07:11.10,0:07:14.28,Default,,0000,0000,0000,,Me alegro de que no les pasara lo peor.
+Dialogue: 0,0:07:14.98,0:07:16.56,Default,C,0000,0000,0000,,Me alegro mucho.
+Dialogue: 0,0:07:22.04,0:07:23.22,Default - italics,Ar,0000,0000,0000,,Es Dios.
+Dialogue: 0,0:07:23.22,0:07:24.40,Default - italics,J,0000,0000,0000,,Una diosa.
+Dialogue: 0,0:07:25.40,0:07:27.05,Default - italics,R,0000,0000,0000,,Quiero casarme con ella.
+Dialogue: 0,0:07:27.81,0:07:30.51,Default,C,0000,0000,0000,,Deberíamos volver a la formación.
+Dialogue: 0,0:07:30.51,0:07:33.47,Default,J,0000,0000,0000,,Sí, seguro que ordenan la retirada.
+Dialogue: 0,0:07:36.47,0:07:40.68,Default,J,0000,0000,0000,,Es increíble que tengamos que volver\Nsolo una hora después de partir.
+Dialogue: 0,0:07:40.68,0:07:43.34,Default,J,0000,0000,0000,,El futuro es más negro\Nde lo que pensaba.
+Dialogue: 0,0:07:43.34,0:07:48.11,Default,J,0000,0000,0000,,Y ese titán fue en dirección contraria\Nal equipo de mando de la vanguardia.
+Dialogue: 0,0:07:48.11,0:07:49.07,Default,C,0000,0000,0000,,¿Qué titán?
+Dialogue: 0,0:07:52.04,0:07:53.68,Default,J,0000,0000,0000,,¿Humo verde?
+Dialogue: 0,0:07:54.10,0:07:57.99,Default,Ar,0000,0000,0000,,Continuaremos con la misión,\Npero cambiaremos de rumbo.
+Dialogue: 0,0:07:58.40,0:08:01.33,Default,C,0000,0000,0000,,¿No ordenan la retirada?
+Dialogue: 0,0:08:01.33,0:08:04.16,Default,J,0000,0000,0000,,¿En qué piensa el comandante Erwin?
+Dialogue: 0,0:08:04.16,0:08:07.60,Default,R,0000,0000,0000,,En teoría, todos los soldados\Ntienen el derecho a decidir
+Dialogue: 0,0:08:07.60,0:08:09.78,Default,,0000,0000,0000,,si la misión no puede continuar.
+Dialogue: 0,0:08:10.22,0:08:13.34,Default,R,0000,0000,0000,,¿Acaso el comandante\Nno vio las señales de humo?
+Dialogue: 0,0:08:13.34,0:08:17.01,Default,Ar,0000,0000,0000,,Aunque no lo entendamos,\Nsolo hay una cosa que hacer.
+Dialogue: 0,0:08:17.47,0:08:18.91,Default,Ar,0000,0000,0000,,Cumplir órdenes.
+Dialogue: 0,0:08:26.31,0:08:28.90,Default,L,0000,0000,0000,,Señal de humo. Verde.
+Dialogue: 0,0:08:29.27,0:08:31.44,Default,L,0000,0000,0000,,Dispárala tú, Auruo.
+Dialogue: 0,0:08:31.44,0:08:32.57,Default,O,0000,0000,0000,,¡Recibido!
+Dialogue: 0,0:08:33.35,0:08:36.03,Default - italics,E,0000,0000,0000,,Por ahora todo parece ir bien.
+Dialogue: 0,0:08:37.64,0:08:40.63,Default - italics,E,0000,0000,0000,,Pero ¿será verdad?
+Dialogue: 0,0:08:41.06,0:08:44.18,Default - italics,E,0000,0000,0000,,En la vanguardia\Npuede que ya haya habido bajas.
+Dialogue: 0,0:08:44.18,0:08:45.29,Default,Guy,0000,0000,0000,,¡Comunicado!
+Dialogue: 0,0:08:46.08,0:08:49.63,Default,Guy,0000,0000,0000,,Aniquilaron al equipo\Nde reconocimiento de la derecha.
+Dialogue: 0,0:08:49.94,0:08:52.10,Default,Guy,0000,0000,0000,,El reconocimiento no funciona bien.
+Dialogue: 0,0:08:52.10,0:08:54.55,Default,Guy,0000,0000,0000,,¡Pasen el mensaje a la izquierda!
+Dialogue: 0,0:08:55.76,0:08:58.60,Default,L,0000,0000,0000,,¿Lo oíste, Petra? Ve.
+Dialogue: 0,0:08:58.60,0:08:59.56,Default,P,0000,0000,0000,,¡Sí, señor!
+Dialogue: 0,0:09:01.27,0:09:02.56,Default - italics,E,0000,0000,0000,,¿El ala derecha?
+Dialogue: 0,0:09:03.27,0:09:05.35,Default - italics,E,0000,0000,0000,,Armin estaba ahí, ¿no?
+Dialogue: 0,0:09:05.98,0:09:11.17,Default - italics,,0000,0000,0000,,Pero Armin y el resto\Ndeberían estar cercanos al centro.
+Dialogue: 0,0:09:11.17,0:09:13.72,Default - italics,E,0000,0000,0000,,Los titanes\Nno habrán llegado hasta ellos.
+Dialogue: 0,0:09:15.47,0:09:16.86,Default,E,0000,0000,0000,,¿Humo negro?
+Dialogue: 0,0:09:17.20,0:09:18.70,Default,E,0000,0000,0000,,¿Excéntricos?
+Dialogue: 0,0:09:18.70,0:09:20.99,Default,L,0000,0000,0000,,Dispáralo tú, Eren.
+Dialogue: 0,0:09:20.99,0:09:22.54,Default,E,0000,0000,0000,,¡Sí, señor!
+Dialogue: 0,0:09:22.54,0:09:24.41,Default,L,0000,0000,0000,,Qué desastre.
+Dialogue: 0,0:09:24.94,0:09:28.33,Default,L,0000,0000,0000,,Dejaron que entrara\Nhasta el centro de la formación.
+Dialogue: 0,0:09:30.16,0:09:33.17,Default - italics,E,0000,0000,0000,,Hay un titán muy cerca.
+Dialogue: 0,0:09:33.57,0:09:38.26,Default - italics,E,0000,0000,0000,,¿Hay gente peleando\Nbajo esas señales de humo?
+Dialogue: 0,0:09:50.82,0:09:51.77,Default,D,0000,0000,0000,,Maldita sea.
+Dialogue: 0,0:09:52.15,0:09:53.57,Default,D,0000,0000,0000,,Mira hacia aquí.
+Dialogue: 0,0:09:54.61,0:09:56.86,Default,D,0000,0000,0000,,¡Monstruo!
+Dialogue: 0,0:10:00.66,0:10:01.80,Default,D,0000,0000,0000,,¡Ahora!
+Dialogue: 0,0:10:10.00,0:10:11.81,Default - italics,D,0000,0000,0000,,Atacarán tres puntos a la vez.
+Dialogue: 0,0:10:11.81,0:10:15.59,Default - italics,D,0000,0000,0000,,Aunque sea lista,\Nno podrá protegerlos todos.
+Dialogue: 0,0:10:15.98,0:10:18.76,Default,D,0000,0000,0000,,La columna, el tendón de Aquiles…\N¡Donde sea!
+Dialogue: 0,0:10:18.76,0:10:20.97,Default,D,0000,0000,0000,,Si le damos, la frenaremos.
+Dialogue: 0,0:10:21.35,0:10:22.64,Default,D,0000,0000,0000,,¡Vamos!
+Dialogue: 0,0:10:24.20,0:10:26.06,Default,Guys,0000,0000,0000,,¡Por tu culpa murieron muchos!
+Dialogue: 0,0:10:26.06,0:10:28.06,Default,Guys,0000,0000,0000,,¡Morirás lenta y dolorosamente!
+Dialogue: 0,0:10:34.50,0:10:35.61,Default,Guys,0000,0000,0000,,¿Saltó?
+Dialogue: 0,0:10:49.54,0:10:51.58,Default,Guys,0000,0000,0000,,¡Suéltame!
+Dialogue: 0,0:11:20.86,0:11:24.20,Default,Guys,0000,0000,0000,,Lo prioritario es informar de esa cosa.
+Dialogue: 0,0:11:24.59,0:11:26.58,Default,Guys,0000,0000,0000,,Debo contárselo al resto.
+Dialogue: 0,0:11:33.80,0:11:35.38,Default,Guys,0000,0000,0000,,¿Un excéntrico?
+Dialogue: 0,0:11:35.38,0:11:36.84,Default,Guys,0000,0000,0000,,¿Llegó hasta aquí?
+Dialogue: 0,0:11:37.17,0:11:38.29,Default,Guys,0000,0000,0000,,¡Lo mataremos!
+Dialogue: 0,0:11:38.29,0:11:40.67,Default,Guys,0000,0000,0000,,¡No puede adentrarse más!
+Dialogue: 0,0:11:57.10,0:11:59.74,Default,Guys,0000,0000,0000,,¿Que eliminaron el ala derecha?
+Dialogue: 0,0:11:59.74,0:12:02.24,Default,Guys,0000,0000,0000,,¿Y por qué no nos retiramos aún?
+Dialogue: 0,0:12:00.42,0:12:06.77,SignA,,0000,0000,0000,,{\fad(1450,0)}Fila 3-1: Cargamento
+Dialogue: 0,0:12:02.24,0:12:04.80,Default,Guys,0000,0000,0000,,Ni idea. Son órdenes del comandante.
+Dialogue: 0,0:12:04.80,0:12:06.78,Default,Guys,0000,0000,0000,,¡Pasa el mensaje a la izquierda!
+Dialogue: 0,0:12:15.79,0:12:17.09,Default,Guys,0000,0000,0000,,¿Qué está pasando?
+Dialogue: 0,0:12:17.09,0:12:24.08,SignB,,0000,0000,0000,,Fila 1-13: Reconocimiento
+Dialogue: 0,0:12:17.71,0:12:20.21,Default,Guys,0000,0000,0000,,No dejamos de ir al este.
+Dialogue: 0,0:12:21.08,0:12:24.09,Default,Guys,0000,0000,0000,,La antigua ciudad está al sur.
+Dialogue: 0,0:12:24.09,0:12:28.84,SignC,,0000,0000,0000,,Fila 1-5: Reconocimiento
+Dialogue: 0,0:12:24.60,0:12:27.94,Default,Guys,0000,0000,0000,,Si seguimos por aquí,\Nnos toparemos con eso.
+Dialogue: 0,0:12:27.94,0:12:28.85,Default,Guys,0000,0000,0000,,Sí.
+Dialogue: 0,0:12:29.35,0:12:30.68,Default,,0000,0000,0000,,Ya se ve.
+Dialogue: 0,0:12:31.43,0:12:33.19,Default,Guys,0000,0000,0000,,El bosque de árboles gigantes.
+Dialogue: 0,0:12:35.98,0:12:40.99,Sign_Default,Ar,0000,0000,0000,,Información pública actualmente
+Dialogue: 0,0:12:35.98,0:12:40.99,Sign_Default,Guys,0000,0000,0000,,{\an4\fs16}Bosque de árboles gigantes (1)\N\N\NBosques aislados de árboles gigantes hallados\Ndentro y fuera de las murallas.\NCrecen de forma natural en ciertas zonas\Ny los árboles pueden llegar a superar los 80 metros.
+Dialogue: 0,0:12:40.99,0:12:45.99,Sign_Default,Ar,0000,0000,0000,,Información pública actualmente
+Dialogue: 0,0:12:40.99,0:12:45.99,Sign_Default2,Guys,0000,0000,0000,,{\an6\fs16}Bosque de árboles gigantes (2)\N\N\NAntes de la caída de la Muralla María,\Neste bosque era un lugar turístico.\NActualmente es un lugar estratégico usado por la Legión para protegerse de titanes en sus expediciones.
+Dialogue: 0,0:12:49.62,0:12:51.87,Default,Er,0000,0000,0000,,Por aquí pasaron titanes.
+Dialogue: 0,0:12:54.33,0:12:56.46,Default,Er,0000,0000,0000,,En el camino no crece vegetación.
+Dialogue: 0,0:13:00.75,0:13:02.51,Default,Er,0000,0000,0000,,Podrán pasar los carros.
+Dialogue: 0,0:13:04.05,0:13:05.76,Default,Er,0000,0000,0000,,Avisen a la retaguardia.
+Dialogue: 0,0:13:06.20,0:13:09.93,Default,,0000,0000,0000,,Solo entrará al bosque\Nla escolta de cargamento central.
+Dialogue: 0,0:13:09.93,0:13:10.89,Default,Guy,0000,0000,0000,,¡Sí, señor!
+Dialogue: 0,0:13:25.53,0:13:27.31,Default,Sa,0000,0000,0000,,Disculpe, señor…
+Dialogue: 0,0:13:27.31,0:13:30.77,Default,,0000,0000,0000,,La hilera central\Nparece adentrarse en el bosque.
+Dialogue: 0,0:13:30.77,0:13:33.89,Default,,0000,0000,0000,,Nosotros nos toparemos con él\Nsi seguimos recto.
+Dialogue: 0,0:13:35.44,0:13:36.64,Default,Guy,0000,0000,0000,,Lo rodearemos.
+Dialogue: 0,0:13:37.36,0:13:38.40,Default,Sa,0000,0000,0000,,¡Sí, señor!
+Dialogue: 0,0:13:41.92,0:13:45.76,Default,J,0000,0000,0000,,¿Qué hacemos en un lugar turístico?
+Dialogue: 0,0:13:46.13,0:13:50.47,Default,J,0000,0000,0000,,Estamos muy lejos de nuestro objetivo\Ny del lugar de partida.
+Dialogue: 0,0:13:51.10,0:13:52.40,Default,Ar,0000,0000,0000,,No lo sé.
+Dialogue: 0,0:13:53.10,0:13:56.46,Default,Ar,0000,0000,0000,,Pero es una decisión\Ndel comandante Erwin.
+Dialogue: 0,0:13:56.46,0:13:59.04,Default,Ar,0000,0000,0000,,Seguro que tiene un plan.
+Dialogue: 0,0:13:59.36,0:14:01.23,Default,J,0000,0000,0000,,¿Qué plan?
+Dialogue: 0,0:14:01.82,0:14:06.06,Default,J,0000,0000,0000,,¿Es que nos darán la bienvenida\Nllevándonos a un lugar turístico?
+Dialogue: 0,0:14:06.06,0:14:08.61,Default,Ar,0000,0000,0000,,No, no creo que sea eso.
+Dialogue: 0,0:14:08.61,0:14:09.74,Default,J,0000,0000,0000,,Era una broma.
+Dialogue: 0,0:14:10.49,0:14:13.92,Default,J,0000,0000,0000,,De todos modos,\Nla mujer gigante nos sigue.
+Dialogue: 0,0:14:14.33,0:14:18.50,Default,J,0000,0000,0000,,Sea cual sea el plan,\Nno podemos quedarnos aquí.
+Dialogue: 0,0:14:19.18,0:14:23.92,Default,J,0000,0000,0000,,Solo se me ocurre que crucemos\Nel bosque para ir a otro lugar.
+Dialogue: 0,0:14:23.92,0:14:25.63,Default,Guy,0000,0000,0000,,¡Deténganse todos!
+Dialogue: 0,0:14:29.22,0:14:31.85,Default,Guy,0000,0000,0000,,Presten atención, reclutas.
+Dialogue: 0,0:14:32.34,0:14:34.80,Default,Guy,0000,0000,0000,,Nos prepararemos para contraatacar.
+Dialogue: 0,0:14:34.80,0:14:36.85,Default,Guy,0000,0000,0000,,Desenvainen y suban a los árboles.
+Dialogue: 0,0:14:37.21,0:14:40.85,Default,Guy,0000,0000,0000,,Si algún titán intenta\Nentrar al bosque, ¡deténganlo!
+Dialogue: 0,0:14:41.15,0:14:44.42,Default,J,0000,0000,0000,,Señor, ¿qué quiere dec…?
+Dialogue: 0,0:14:44.42,0:14:46.03,Default,Guy,0000,0000,0000,,¡Cállate y cumple órdenes!
+Dialogue: 0,0:14:50.61,0:14:53.70,Default,J,0000,0000,0000,,¿En serio? ¿Qué demonios está pasando?
+Dialogue: 0,0:14:57.96,0:15:02.88,Default,Co,0000,0000,0000,,Parece que solo la fila central\Nentró al bosque.
+Dialogue: 0,0:15:02.88,0:15:04.50,Default,Co,0000,0000,0000,,¿Qué hay de la formación?
+Dialogue: 0,0:15:04.96,0:15:06.55,Default,Mi,0000,0000,0000,,Ya no hay formación.
+Dialogue: 0,0:15:07.21,0:15:10.00,Default,Mi,0000,0000,0000,,El bosque bloquea las alas laterales.
+Dialogue: 0,0:15:10.00,0:15:12.14,Default,,0000,0000,0000,,Tendremos que rodearlo.
+Dialogue: 0,0:15:12.50,0:15:14.64,Default,Mi,0000,0000,0000,,Perdimos el poder de reconocimiento.
+Dialogue: 0,0:15:15.66,0:15:18.64,Default,Co,0000,0000,0000,,¿Por qué no cambiamos\Nde ruta para esquivarlo?
+Dialogue: 0,0:15:19.10,0:15:21.81,Default,Co,0000,0000,0000,,¿El comandante Erwin leyó mal el mapa?
+Dialogue: 0,0:15:22.42,0:15:23.68,Default,Mi,0000,0000,0000,,No lo sé.
+Dialogue: 0,0:15:24.10,0:15:26.80,Default,Mi,0000,0000,0000,,Quizás acabamos aquí
+Dialogue: 0,0:15:26.80,0:15:30.52,Default,Mi,0000,0000,0000,,al intentar esquivar\Nla amenaza de la derecha.
+Dialogue: 0,0:15:39.12,0:15:41.58,Default - italics,J,0000,0000,0000,,Esto es una locura.
+Dialogue: 0,0:15:42.33,0:15:45.74,Default - italics,J,0000,0000,0000,,Abandonamos la misión original\Nde establecer bases.
+Dialogue: 0,0:15:46.42,0:15:49.63,Default - italics,J,0000,0000,0000,,Deberíamos haber vuelto\Ncon el rabo entre las piernas,
+Dialogue: 0,0:15:50.17,0:15:52.84,Default - italics,J,0000,0000,0000,,pero nos desviamos a un lugar turístico.
+Dialogue: 0,0:15:53.84,0:15:59.06,Default - italics,J,0000,0000,0000,,Y estamos aquí quietos para frenar\Na los titanes que entren al bosque.
+Dialogue: 0,0:16:02.52,0:16:06.40,Default,J,0000,0000,0000,,Las órdenes que nos dio son absurdas.
+Dialogue: 0,0:16:06.77,0:16:08.19,Default,Ar,0000,0000,0000,,Te oirá.
+Dialogue: 0,0:16:08.19,0:16:12.03,Default,J,0000,0000,0000,,Y además, sin explicación alguna.\NEs original.
+Dialogue: 0,0:16:12.03,0:16:16.24,Default,J,0000,0000,0000,,Aunque imagino que estará\Npreocupado por sus cosas.
+Dialogue: 0,0:16:16.24,0:16:17.41,Default,Ar,0000,0000,0000,,¿Como qué?
+Dialogue: 0,0:16:17.74,0:16:22.35,Default,J,0000,0000,0000,,Un líder al que los subordinados\Nconsideran inútil en una crisis
+Dialogue: 0,0:16:22.35,0:16:26.50,Default,J,0000,0000,0000,,suele caer a causa de un misterioso\Nataque por la espalda.
+Dialogue: 0,0:16:26.50,0:16:29.42,Default,J,0000,0000,0000,,No es una historia fuera de lo común.
+Dialogue: 0,0:16:30.38,0:16:32.68,Default,Ar,0000,0000,0000,,¿Qué vas a hacer, Jean?
+Dialogue: 0,0:16:33.68,0:16:38.43,Default,J,0000,0000,0000,,No te lo tomes en serio.\NSimplemente estoy irritado.
+Dialogue: 0,0:16:39.14,0:16:41.03,Default,J,0000,0000,0000,,¿Que qué haré?
+Dialogue: 0,0:16:41.73,0:16:45.88,Default,,0000,0000,0000,,Cumplir órdenes y no dejar\Nque los titanes entren al bosque.
+Dialogue: 0,0:16:47.36,0:16:50.73,Default,J,0000,0000,0000,,Tú también crees\Nque es lo mejor, ¿no, Armin?
+Dialogue: 0,0:16:52.40,0:16:54.64,Default,J,0000,0000,0000,,Pareces saber algo.
+Dialogue: 0,0:16:55.04,0:16:56.49,Default,,0000,0000,0000,,Este…
+Dialogue: 0,0:16:57.78,0:17:00.08,Default,Guy,0000,0000,0000,,¡Titán de cinco metros en camino!
+Dialogue: 0,0:17:06.37,0:17:09.92,Default - italics,Ar,0000,0000,0000,,¿Por qué traer a la formación aquí?
+Dialogue: 0,0:17:10.34,0:17:13.72,Default - italics,Ar,0000,0000,0000,,¿En qué piensa el comandante Erwin?
+Dialogue: 0,0:17:14.47,0:17:18.22,Default - italics,Ar,0000,0000,0000,,No, no es a eso\Na lo que debería darle vueltas.
+Dialogue: 0,0:17:18.85,0:17:21.40,Default - italics,Ar,0000,0000,0000,,La titán hembra persigue a Eren.
+Dialogue: 0,0:17:21.77,0:17:24.40,Default - italics,Ar,0000,0000,0000,,Y el comandante lo sabe.
+Dialogue: 0,0:17:24.73,0:17:28.44,Default - italics,Ar,0000,0000,0000,,Asume eso y piensa a partir de ahí.
+Dialogue: 0,0:17:29.48,0:17:32.15,Default,E,0000,0000,0000,,¡Capitán! ¡Capitán Levi!
+Dialogue: 0,0:17:32.74,0:17:33.99,Default,L,0000,0000,0000,,¿Qué?
+Dialogue: 0,0:17:33.99,0:17:37.01,Default,E,0000,0000,0000,,¡Estamos en medio del bosque!
+Dialogue: 0,0:17:37.52,0:17:40.24,Default,E,0000,0000,0000,,Si solo entra el centro,
+Dialogue: 0,0:17:40.24,0:17:42.29,Default,,0000,0000,0000,,no sabremos si vienen titanes.
+Dialogue: 0,0:17:42.68,0:17:45.14,Default,E,0000,0000,0000,,Parecía acercarse algo por la derecha.
+Dialogue: 0,0:17:45.14,0:17:49.13,Default,E,0000,0000,0000,,¿Cómo esquivaremos a los titanes\Ny protegeremos los carros?
+Dialogue: 0,0:17:49.46,0:17:52.14,Default,L,0000,0000,0000,,Deja de citar lo obvio.
+Dialogue: 0,0:17:52.56,0:17:54.72,Default,L,0000,0000,0000,,Ya no podemos hacer nada de eso.
+Dialogue: 0,0:17:55.59,0:17:57.38,Default,E,0000,0000,0000,,Entonces, ¿por qué?
+Dialogue: 0,0:17:57.72,0:17:59.62,Default,L,0000,0000,0000,,Mira bien a tu alrededor.
+Dialogue: 0,0:17:59.97,0:18:02.14,Default,L,0000,0000,0000,,Fíjate en los árboles gigantescos.
+Dialogue: 0,0:18:04.56,0:18:08.35,Default,L,0000,0000,0000,,Es un entorno perfecto\Npara el equipo de maniobras.
+Dialogue: 0,0:18:09.36,0:18:13.86,Default,L,0000,0000,0000,,Usa ese cerebro penoso que tienes.
+Dialogue: 0,0:18:14.26,0:18:16.99,Default,L,0000,0000,0000,,Si no quieres morir, piensa.
+Dialogue: 0,0:18:17.49,0:18:18.61,Default,E,0000,0000,0000,,¡Sí, señor!
+Dialogue: 0,0:18:19.66,0:18:20.92,Default - italics,E,0000,0000,0000,,Claro.
+Dialogue: 0,0:18:21.30,0:18:24.88,Default - italics,E,0000,0000,0000,,No comprendo la situación\Nporque soy un novato.
+Dialogue: 0,0:18:25.37,0:18:27.78,Default - italics,E,0000,0000,0000,,Pero no me dará las respuestas.
+Dialogue: 0,0:18:27.78,0:18:30.16,Default - italics,,0000,0000,0000,,Tengo que descubrirlo por mí mismo.
+Dialogue: 0,0:18:30.92,0:18:34.59,Default - italics,E,0000,0000,0000,,Seguro que así es\Ncomo aprendieron los demás.
+Dialogue: 0,0:18:36.63,0:18:39.68,Default,O,0000,0000,0000,,¿Qué demonios es esto?
+Dialogue: 0,0:18:39.68,0:18:43.68,Default,O,0000,0000,0000,,En serio, ¿qué rayos está pasando?
+Dialogue: 0,0:18:46.40,0:18:47.56,Default - italics,E,0000,0000,0000,,¡No puede ser!
+Dialogue: 0,0:18:48.10,0:18:53.61,Default - italics,E,0000,0000,0000,,¿No me digas que nadie\Nentiende lo que está pasando?
+Dialogue: 0,0:18:54.30,0:18:58.27,Default - italics,E,0000,0000,0000,,Puede que ni siquiera el capitán Levi.
+Dialogue: 0,0:19:00.11,0:19:02.36,Default - italics,Ar,0000,0000,0000,,La titán hembra va tras Eren.
+Dialogue: 0,0:19:02.87,0:19:04.87,Default - italics,Ar,0000,0000,0000,,Si esa teoría es cierta,
+Dialogue: 0,0:19:04.87,0:19:07.16,Default - italics,,0000,0000,0000,,solo hay un motivo para venir.
+Dialogue: 0,0:19:08.12,0:19:11.92,Default - italics,Ar,0000,0000,0000,,El comandante Erwin\Npretende matarla aquí.
+Dialogue: 0,0:19:11.92,0:19:12.96,Default,J,0000,0000,0000,,Armin.
+Dialogue: 0,0:19:14.07,0:19:19.01,Default,J,0000,0000,0000,,Las órdenes eran no dejar entrar\Na los titanes al bosque, ¿no?
+Dialogue: 0,0:19:21.18,0:19:22.22,Default,J,0000,0000,0000,,Es decir…
+Dialogue: 0,0:19:22.84,0:19:26.02,Default,J,0000,0000,0000,,No es necesario enfrentarnos a ellos,
+Dialogue: 0,0:19:27.09,0:19:28.31,Default,J,0000,0000,0000,,¿verdad?
+Dialogue: 0,0:20:02.43,0:20:03.64,Default,E,0000,0000,0000,,¿Humo negro?
+Dialogue: 0,0:20:03.64,0:20:05.26,Default,O,0000,0000,0000,,¡Viene de justo detrás!
+Dialogue: 0,0:20:05.26,0:20:07.94,Default,El,0000,0000,0000,,Será lo que venía por la derecha.
+Dialogue: 0,0:20:08.60,0:20:10.10,Default,L,0000,0000,0000,,Desenvainen.
+Dialogue: 0,0:20:13.56,0:20:17.86,Default,L,0000,0000,0000,,Si aparece, será solo por un segundo.
+Dialogue: 0,0:20:42.05,0:20:43.26,Default,L,0000,0000,0000,,¡Corran!
+Dialogue: 0,0:20:57.88,0:20:58.94,Default,G,0000,0000,0000,,Qué rapidez.
+Dialogue: 0,0:20:58.94,0:21:01.94,Default,G,0000,0000,0000,,¡En el bosque\Nno podemos esquivar sus ataques!
+Dialogue: 0,0:21:01.94,0:21:02.99,Default,E,0000,0000,0000,,¡Nos alcanzará!
+Dialogue: 0,0:21:02.99,0:21:05.16,Default,P,0000,0000,0000,,¡Usemos el equipo de maniobras!
+Dialogue: 0,0:21:05.82,0:21:07.16,Default,P,0000,0000,0000,,¡Capitán!
+Dialogue: 0,0:21:09.24,0:21:10.66,Default,Guy,0000,0000,0000,,¡No escaparás!
+Dialogue: 0,0:21:11.16,0:21:12.87,Default,P,0000,0000,0000,,¡Refuerzos de la retaguardia!
+Dialogue: 0,0:21:28.51,0:21:30.56,Default,P,0000,0000,0000,,¡Capitán, denos órdenes!
+Dialogue: 0,0:21:30.56,0:21:33.06,Default,O,0000,0000,0000,,¡Acabemos con él! ¡Es peligroso!
+Dialogue: 0,0:21:33.50,0:21:35.48,Default,O,0000,0000,0000,,¡Debemos encargarnos nosotros!
+Dialogue: 0,0:21:36.77,0:21:38.81,Default,El,0000,0000,0000,,Te haré pedazos.
+Dialogue: 0,0:21:40.69,0:21:43.78,Default - italics,E,0000,0000,0000,,Idiota, viniste al infierno\Npor tu propio pie.
+Dialogue: 0,0:21:44.17,0:21:47.77,Default - italics,E,0000,0000,0000,,¡Estás persiguiendo\Na unos maestros asesinos de titanes!
+Dialogue: 0,0:21:50.68,0:21:52.01,Default,E,0000,0000,0000,,¿Capitán Levi?
+Dialogue: 0,0:21:52.98,0:21:54.16,Default,P,0000,0000,0000,,¡Capitán!
+Dialogue: 0,0:21:54.16,0:21:55.77,Default,O,0000,0000,0000,,¡Denos la orden!
+Dialogue: 0,0:21:55.77,0:21:57.98,Default,G,0000,0000,0000,,¡A este paso nos alcanzará!
+Dialogue: 0,0:21:57.98,0:21:59.43,Default,E,0000,0000,0000,,Matémoslo.
+Dialogue: 0,0:21:59.43,0:22:01.37,Default,E,0000,0000,0000,,Para eso entramos al bosque.
+Dialogue: 0,0:22:01.37,0:22:03.30,Default,E,0000,0000,0000,,¿Verdad, capitán?
+Dialogue: 0,0:22:03.30,0:22:05.34,Default,E,0000,0000,0000,,¡Capitán, denos sus órdenes!
+Dialogue: 0,0:22:08.48,0:22:10.80,Default,L,0000,0000,0000,,Tápense los oídos.
+Dialogue: 0,0:22:17.97,0:22:21.98,Sign_Default3,,0000,0000,0000,,Continuará
+Dialogue: 0,0:23:51.94,0:23:53.32,Sign_Default,,0000,0000,0000,,Avance
+Dialogue: 0,0:23:53.32,0:23:57.00,Default,,0000,0000,0000,,La titán hembra sigue tras ellos,\Ndejando atrás una masacre.
+Dialogue: 0,0:23:57.80,0:24:00.12,Default,,0000,0000,0000,,Pese a ver a sus compañeros morir,
+Dialogue: 0,0:24:00.12,0:24:02.57,Default,,0000,0000,0000,,la Legión solo puede huir,
+Dialogue: 0,0:24:02.94,0:24:06.06,Default,,0000,0000,0000,,y Eren se ve obligado a decidir.
+Dialogue: 0,0:24:05.40,0:24:07.87,Title,,0000,0000,0000,,Mordisco\N57.ª expedición más allá de las murallas (3)
+
